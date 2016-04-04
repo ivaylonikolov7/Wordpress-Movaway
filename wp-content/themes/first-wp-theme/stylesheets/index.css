@@ -1,0 +1,1485 @@
+#big-picture
+
+
+
+{
+
+
+
+}
+
+
+
+.active
+
+
+
+{
+
+
+
+    color:#000;
+
+
+
+    font-weight:bold;
+
+
+
+}
+
+
+
+.white
+
+
+
+{
+
+
+
+    color:#fff;
+
+
+
+}
+
+
+
+p
+
+
+
+{
+
+
+
+    color:#fff;
+
+
+
+    margin:0;
+
+
+
+}
+
+
+
+.red
+
+
+
+{
+
+
+
+    color:#cf2f27;
+
+
+
+}
+
+
+
+.number-red
+
+
+
+{
+
+
+
+    color:#cf2f27;
+
+
+
+    font-size:73px;
+
+
+
+    float:left;
+
+
+
+}
+
+
+
+h2
+
+
+
+{
+
+
+
+    font-size:60px;
+
+
+
+    text-transform: uppercase;
+
+
+
+}
+
+
+
+.big
+
+
+
+{
+
+
+
+    width: 488px;
+
+
+
+    margin:0 auto;
+
+
+
+    padding-top:6%;
+
+
+
+    font-size: 60px;
+
+
+
+    text-transform: uppercase;
+
+
+
+}
+
+
+
+.left-number-with-text
+
+
+
+{
+
+
+
+    display:inline-block;
+
+
+
+    text-align:left;
+
+
+
+
+
+
+
+}
+
+
+
+.right-number-with-text
+
+
+
+{
+
+
+
+    display:inline-block;
+
+
+
+    text-align:left;
+
+
+
+    margin-left:20px;
+
+
+
+}
+
+
+
+.text-of-number-red
+
+
+
+{
+
+
+
+    display: inline-block;
+
+
+
+    width: 140px;
+
+
+
+    margin-left: 20px;
+
+
+
+    padding-top:10px;
+
+
+
+}
+
+
+
+.text-of-number-blue
+
+
+
+{
+
+
+
+    display:inline-block;
+
+
+
+    width:140px;
+
+
+
+    text-align:right;
+
+
+
+    margin-right:20px;
+
+
+
+    padding-top:10px;
+
+
+
+}
+
+
+
+.number-blue
+
+
+
+{
+
+
+
+    color:#5c78e5;
+
+
+
+    display:inline-block;
+
+
+
+    font-size:70px;
+
+
+
+}
+
+
+
+#centered-information-text-with-numbers
+
+
+
+{
+
+
+
+    margin-top: 10%;
+
+
+
+    text-align: center;
+
+
+
+    font-family: HelveticaLt Bold;
+
+
+
+}
+
+
+
+#buttons
+
+
+
+{
+
+
+
+    text-transform: uppercase;
+
+
+
+    margin:0 auto;
+
+
+
+    width: 400px;
+
+
+
+    text-align: center;
+
+
+
+}
+
+
+
+.button
+
+
+
+{
+
+
+
+    float:left;
+
+
+
+    display:table;
+
+
+
+    padding:10px;
+
+
+
+    border:1px solid #fff;
+
+
+
+    width:150px;
+
+
+
+    color:#fff;
+
+
+
+    margin-left:50px;
+
+
+
+}
+
+
+
+.button span
+
+
+
+{
+
+
+
+    display:table-cell;
+
+
+
+    vertical-align: middle;
+
+
+
+    font-size:11px;
+
+    font-weight:bold;
+
+}
+
+
+
+.button:first-child
+
+
+
+{
+
+
+
+    margin:0;
+
+
+
+}
+
+
+
+#scroll-down
+
+
+
+{
+
+
+
+    background-image:url('../images/red/scroll-down.png');
+
+
+
+    width:74px;
+
+
+
+    height: 74px;
+
+
+
+    margin:0 auto;
+
+
+
+    margin-top: 6.1%;
+
+
+
+    z-index:1;
+
+
+
+}
+
+
+
+#services
+
+
+
+{
+
+
+
+    background-image:url('../images/red/background-2.jpg');
+
+
+
+    width:100%;
+
+
+
+    height:379px;
+
+
+
+    background-size:100% 100%;
+
+
+
+    font-family: HelveticaLt Bold;
+
+
+
+}
+
+
+
+#urban
+
+
+
+{
+
+
+
+    background-image:url('../images/red/urban.jpg');
+
+
+
+    width:100%;
+
+
+
+    height:820px;
+
+
+
+    background-repeat:no-repeat;
+
+
+
+    padding-top:130px;
+
+
+
+    box-sizing: border-box;
+
+
+
+    background-size:100% 100%;
+
+
+
+}#euro
+
+
+
+ {
+
+
+
+     background-image:url('../images/red/euro.png');
+
+
+
+     width:27px;
+
+
+
+     height:39px;
+
+
+
+ }
+
+
+
+#hitler-hand
+
+
+
+{
+
+
+
+    background-image:url('../images/red/hitler-hand.png');
+
+
+
+    width:39px;
+
+
+
+    height:39px;
+
+
+
+}
+
+
+
+#atlas
+
+
+
+{
+
+
+
+    background-image:url('../images/atlas.png');
+
+
+
+    width:29px;
+
+
+
+    height:39px;
+
+
+
+}
+
+
+
+.description
+
+
+
+{
+
+
+
+    font-size:11px;
+
+
+
+}
+
+
+
+#right-side-urban
+
+
+
+{
+
+
+
+    padding-left:53%;
+
+
+
+    text-transform:uppercase;
+
+
+
+}
+
+
+
+#right-side-urban h2
+
+
+
+{
+
+
+
+    font-size:2.3em;
+
+
+
+    width:394px;
+
+
+
+    font-family: Futura Ext;
+
+
+
+}
+
+
+
+#commercevente
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service1.jpg');
+
+
+
+}
+
+
+
+#administration
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service2.jpg')
+
+
+
+}
+
+
+
+#logistique
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service3.jpg')
+
+
+
+}
+
+
+
+#dridit
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service4.jpg')
+
+
+
+}
+
+
+
+#management
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service5.jpg')
+
+
+
+}
+
+
+
+#finance
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service6.jpg')
+
+
+
+}
+
+
+
+#marketing
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service7.jpg')
+
+
+
+}
+
+
+
+#art
+
+
+
+{
+
+
+
+    background-image:url('../images/red/service8.jpg')
+
+
+
+}
+
+
+
+.table-cell
+
+
+
+{
+
+
+
+    display:table-cell;
+
+
+
+    width:130px;
+
+
+
+    height:144px;
+
+
+
+}
+
+
+
+.black-button
+
+
+
+{
+
+
+
+    display:table;
+
+
+
+    padding:10px;
+
+
+
+    border:2px solid #000;
+
+
+
+    width:150px;
+
+
+
+    color:#000;
+
+
+
+    margin-top:64px;
+
+
+
+}
+
+
+
+.black-button span
+
+
+
+{
+
+
+
+    font-size:12px;
+
+
+
+    font-weight:Bold;
+
+
+
+}
+
+
+
+#testimonials
+
+
+
+{
+
+
+
+    padding-top:100px;
+
+
+
+    width:1140px;
+
+
+
+    margin:0 auto;
+
+
+
+}
+
+
+
+#testimonials-grouped
+
+
+
+{
+
+
+
+    width:1100px;
+
+
+
+    margin:0 auto;
+
+
+
+    margin-top:70px;
+
+
+
+}
+
+
+
+.testimonials-grouped hr
+
+
+
+{
+
+
+
+    width:50px;
+
+
+
+}
+
+
+
+.testimonial
+
+
+
+{
+
+
+
+    width:31%;
+
+
+
+    float:left;
+
+
+
+    padding-left:23px;
+
+
+
+}
+
+
+
+
+
+
+
+.testimonial-user
+
+
+
+{
+
+
+
+    margin-top: 40px;
+
+
+
+    margin-bottom:28px;
+
+
+
+    font-size:15px;
+
+
+
+}
+
+
+
+.title-testimonial
+
+
+
+{
+
+
+
+    text-transform: uppercase;
+
+
+
+    font-weight: bold;
+
+
+
+}
+
+
+
+.testimonial-description
+
+
+
+{
+
+
+
+    margin-top:20px;
+
+
+
+    color:#a7a396;
+
+
+
+    font-family: HelveticaLTStd Cond;
+
+
+
+    font-size:16px;
+
+
+
+}
+
+
+
+.testimonial hr
+
+
+
+{
+
+
+
+    width:50px;
+
+
+
+    margin:0;
+
+
+
+    background-color:#9f9f9f;
+
+
+
+}
+
+
+
+#they-trust-us
+
+
+
+{
+
+
+
+    background-image: url('../images/red/background-bridge.jpg');
+
+
+
+    background-size:100% 100%;
+
+
+
+    height:940px;
+
+
+
+    margin-top:100px;
+
+
+
+    background-repeat:no-repeat;
+
+
+
+    padding-top:150px;
+
+
+
+    box-sizing: border-box;
+
+
+
+}
+
+
+
+#they-trust-us h2
+
+
+
+{
+
+
+
+    text-align:right;
+
+
+
+}
+
+
+
+#content
+
+
+
+{
+
+
+
+    width:900px;
+
+
+
+    margin:0 auto;
+
+
+
+}
+
+
+
+.picture
+
+
+
+{
+
+
+
+    float:left;
+
+
+
+    width:25%;
+
+
+
+}
+
+
+
+#pictures
+
+
+
+{
+
+
+
+    margin-top:130px;
+
+
+
+}
+
+
+
+
+
+
+
+.social-media:before
+
+
+
+{
+
+
+
+    content: url('../images/red/white-straight-line.png');
+
+
+
+    position:relative;
+
+
+
+    right:30px;
+
+
+
+}
+
+
+
+.social-media
+
+
+
+{
+
+
+
+    display:table-cell;
+
+
+
+    width:280px;
+
+
+
+    color:#fff;
+
+
+
+    margin-left:30px;
+
+
+
+    vertical-align: middle;
+
+
+
+}
+
+
+
+#socialmedias
+
+
+
+{
+
+
+
+    margin-top:125px;
+
+
+
+    display:table;
+
+
+
+    text-transform: uppercase;
+
+
+
+    font-size:14px;
+
+
+
+}
+
+
+
+.social-media-info
+
+
+
+{
+
+
+
+    display:inline-block;
+
+
+
+    margin-left:35px;
+
+
+
+}
+
+
+
+.table-cell
+
+
+
+{
+
+
+
+    color:#fff;
+
+
+
+    padding-top:90px;
+
+
+
+    text-align:center;
+
+
+
+    -webkit-box-sizing: border-box;
+
+
+
+    -moz-box-sizing: border-box;
+
+
+
+    box-sizing: border-box;
+
+
+
+    font-size:14px;
+
+
+
+}
+
+
+
+.flat img {
+
+
+
+    width:408px;
+
+
+
+    height:333px;
+
+
+
+}
+
+
+
+#table
+
+
+
+{
+
+
+
+    font-family: HelveticaLt Bold;
+
+
+
+}
+
+
+
+.location
+
+
+
+{
+
+
+
+    font-family: Futura Ext;
+
+
+
+}
+
+
+#big-picture
+{
+    background-image:url('../images/index-background.jpg');
+    background-size: cover;
+}
+#big-picture a
+
+
+
+{
+
+
+
+    color:#fff;
+
+
+
+}
+
+
+
+#big-picture a:visited
+
+
+
+{
+
+
+
+    color:#fff;
+
+
+
+}
+
+
+
+video
+
+
+
+{
+
+
+
+    position: absolute;
+
+
+
+    z-index: -2;
+
+
+
+    width: 100%;
+
+
+
+    height:1000px;
+
+
+
+    object-fit: cover;
+
+
+
+}
+
+
+
+
+
+
+
+#container
+
+
+
+{
+
+
+
+    position:relative;
+
+
+
+    overflow:hidden;
+
+
+
+    background-color:#000;
+
+
+
+    z-index:0;
+
+
+
+}
+
+#testimonials h2
+
+{
+
+    font-family: Futura Std;
+
+}
+
+
+
+#socialmedias a
+
+{
+
+    position: relative;
+
+    top: -15px;
+
+}
+#flats h2
+{
+   font-family: Futura Std;
+}

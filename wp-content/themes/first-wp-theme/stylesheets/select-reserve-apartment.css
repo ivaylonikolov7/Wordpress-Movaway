@@ -1,0 +1,14 @@
+.sod_select
+{
+    border:0 solid #000;
+    height:60px;
+    width:90%;
+    line-height: 2.5;
+    background: #99221c;
+    margin-top:5px;
+}
+.sod_list_wrapper
+{
+    border:0 solid #000 !important;
+    left:3px !important;
+}

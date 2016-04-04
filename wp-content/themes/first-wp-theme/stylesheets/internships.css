@@ -1,0 +1,348 @@
+#big-picture
+{
+    background-image:url('../images/blue/blue-stages-background.jpg');
+    background-size:100% 100%;
+    width:100%;
+    height:509px;
+    text-align: center;
+    padding-top:150px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    text-transform: uppercase;
+}
+#after-big-picture
+{
+    background-image:url('../images/blue/after-blue-stages-background.png');
+    background-size:100% 100%;
+    width:100%;
+    height:290px;
+    padding-left: 55px;
+    padding-top: 40px;
+    padding-right: 50px;
+    box-sizing:border-box;
+}
+#after-big-picture hr
+{
+    background-color:#000;
+    border:0 solid #000;
+    width:100%;
+    height:1px;
+    margin-top:25px;
+    margin-bottom:15px;
+}
+#scroll
+{
+    background-image:url('../images/blue/scroll-down-blue.png');
+    width:74px;
+    height:74px;
+    margin:0 auto;
+    margin-top:140px;
+}
+label
+{
+    color:#fff;
+    font-size:11px;
+    text-transform: uppercase;
+}
+.sod_select .sod_label {
+    color: #fff;
+
+}
+.sod_select {
+    line-height: 1;
+    width: 374px;
+    height: 59px;
+    margin-left: 40px;
+    padding: 23px 10px;
+    background: #122c4f;
+    color: #44444A;
+    border: 0 solid pink;
+}
+.sod_select .sod_list_wrapper {
+    position: absolute;
+    top: 100%;
+    display: none;
+    height: auto;
+    width: 100%;
+    margin: 0 0 0 0;
+    background: #ffffff;
+    border: 0 solid #000000;
+    border-top: none;
+    color: #000;
+    font-weight: 300;
+    z-index: 1;
+}
+
+.sod_select:before, .sod_select:after {
+    content: url('../images/blue/select-blue-arrow-down.png');
+    position: absolute;
+    right: 10px;
+    top: 20px;
+    font-size: 7px;
+}
+#left-filter
+{
+    float:left;
+    margin-left:10px;
+}
+#right-filter
+{
+    float:right;
+}
+.hands
+{
+    background-image:url('../images/blue/executive-manager.png');
+}
+.person-behind-pc
+{
+    background-image:url('../images/blue/marketing-manager.png');
+}
+.art
+{
+    background-image:url('../images/blue/art-director.png')
+}
+.job-icon
+{
+    width:158px;
+    height:158px;
+    float:left;
+}
+#jobs
+{
+    width:1000px;
+    margin: 0 auto;
+}
+.job-title
+{
+    float:left;
+}
+
+h3
+{
+    font-size:30px;
+    margin:0px;
+    margin-left:30px;
+    margin-top:60px;
+    padding:0px;
+    width:150px;
+    color:#33537e;
+}
+.announced-at
+{
+    color:#a7a396;
+    text-align:right;
+}
+.job
+{
+    width: 400px;
+    padding: 50px;
+
+}
+.hashtag
+{
+    color:#33537e;
+    font-size:12px;
+    font-weight:bold;
+}
+.jobs-column-detail-and-hashtag
+{
+    margin-top:25px;
+}
+.jobs-description-column
+{
+    float:left;
+    width:48%;
+}
+.duration:before
+{
+    content: url("../images/blue/time-gray.png");
+    position:relative;
+    left:-10px;
+}
+.price:before
+{
+    content: url("../images/blue/price-gray.png");
+    position:relative;
+    left:-10px;
+}
+.duration-and-price
+{
+    color:#a7a396;
+    margin-left:10px;
+}
+#right
+{
+    margin-top:190px;
+}
+.job-column
+{
+    float:left;
+    width:40%;
+}
+#right .job:last-child {
+    margin-bottom: 0;
+}
+#button-for-stage
+{
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:53px;
+    padding-right:53px;
+    border:2px solid #000;
+    cursor:pointer;
+    margin-top:250px;
+}
+#content-after-jobs
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.results
+{
+    color:#fff;
+    text-transform: uppercase;
+}
+#label-type-of-intern:before
+{
+    content: url('../images/blue/adress-icon.png');
+    position:relative;
+    left:-10px;
+}
+#label-duration:before{
+    content:url('../images/blue/time-white.png');
+    position:relative;
+    left:-10px;
+}
+.left
+{
+    float:left;
+}
+.job.right
+{
+    margin-top:250px;   
+}
+.job.left
+{
+    margin-top:70px;
+}
+.job-title
+{
+    text-transform: uppercase;
+}
+.price
+{
+    text-transform: uppercase;
+}
+.announced-at
+{
+    text-transform: uppercase;
+    font-size:12px;
+}
+.commerce
+{
+    background-image:url('../images/blue/commerce-off.jpg');
+}
+.job:hover .commerce
+{
+    background-image:url('../images/blue/commerce-on.jpg');
+}
+.administration
+{
+    background-image:url('../images/blue/administration-off.jpg');
+}
+.job:hover .administration
+{
+    background-image:url('../images/blue/administration-on.jpg');
+}
+.logistique
+{
+    background-image:url('../images/blue/logistique-off.jpg');
+}
+.logistique:hover
+{
+    background-image:url('../images/blue/logistique-on.jpg');
+}
+.droit
+{
+    background-image:url('../images/blue/droit-off.jpg');
+}
+.job:hover .droit
+{
+    background-image:url('../images/blue/droit-on.jpg');
+}
+.management
+{
+    background-image:url('../images/blue/administration-off.jpg');
+}
+.job:hover .management
+{
+    background-image:url('../images/blue/administration-on.jpg');
+}
+.finance
+{
+    background-image:url('../images/blue/financement-off.jpg');
+}
+.job:hover .finance
+{
+    background-image:url('../images/blue/financement-on.jpg');
+}
+.marketing
+{
+    background-image:url('../images/blue/marketing-management-off.jpg');
+}
+.job:hover .marketing
+{
+    background-image:url('../images/blue/marketing-management-on.jpg');
+}
+.arts
+{
+    background-image: url('../images/blue/arts-off');
+}
+.job:hover .arts
+{
+    background-image: url('../images/blue/arts-on');
+}
+.job h3
+{
+    font-family: HelveticaLTStd Cond;
+}
+.results
+{
+    font-family: HelveticaLTStd Cond;
+}
+.job-title h3
+{
+      font-family: Futura Ext;
+}
+.job:hover
+{
+    background-color:#33537e;
+}
+.job:hover h3
+{
+    color:#fff;
+}
+.job:hover .hashtag
+{
+color:#fff;
+}
+.job:hover .announced-at
+{
+    color:#fff;
+}
+.job:hover .price
+{
+    color:#fff;
+}
+.job:hover .duration{
+    color:#fff;
+}
+.job:hover .duration:before
+{
+    content: url('../images/time-white.png');
+}
+.job:hover .price:before
+{
+    content: url('../images/price-white.png');
+}

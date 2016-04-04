@@ -1,0 +1,792 @@
+/*
+
+Theme Name: Movaway
+
+Theme URI: 
+
+Author: Ivaylo Nikolov
+
+Author URI: http://ivaylonikolov.net
+
+Description:  
+
+Version: 0.5
+
+*/
+
+
+
+@font-face{
+
+    font-family: Futura Ext;
+
+    src: url('font/FuturaStd-ExtraBold.otf');
+
+}
+
+@font-face {
+
+    font-family: Futura Std;
+
+    src: url('font/FuturaStd-Bold.otf');
+
+}
+
+@font-face {
+
+    font-family: HelveticaLt Bold;
+
+    src: url('font/HelveticaLTStd-Bold.otf');
+
+}
+
+@font-face {
+
+    font-family: HelveticaLTStd Cond;
+
+    src: url('font/HelveticaLTStd-Cond.otf');   
+
+}
+
+html
+
+{
+
+    margin:0;
+
+    padding: 0;
+
+}
+
+body
+
+{
+
+    background-image:url('images/red/background.jpg');
+
+    margin:0;
+
+    padding:0;
+
+}
+
+p
+
+{
+
+    margin:0;
+
+}
+
+#logo
+
+{
+
+    background-image:url('images/red/logo.png');
+
+    width:186px;
+
+    height:36px;
+
+    float:left;
+
+    margin-top:22px;
+
+    box-sizing: border-box;
+
+}
+
+.clear
+
+{
+
+    clear:both;
+
+}
+
+header
+
+{
+
+    height:37px;
+
+    padding-left:30px;
+
+    padding-bottom:24px;
+
+    font-size:11px;
+
+}
+
+#menu
+
+{
+
+    float: left;
+
+    width: 61%;
+
+    margin-top: 24px;
+
+}
+
+p
+
+{
+
+    margin:0;
+
+    padding:0;
+
+}
+
+#menu-header
+
+{
+
+    margin-left:60px;
+
+    padding:0;
+
+    margin-top: 32px;
+
+    margin-bottom:0;
+
+}
+
+#fr
+
+{
+
+    float:left;
+
+}
+
+#en
+
+{
+
+    float:left;
+
+}
+
+.split
+
+{
+
+    float:left;
+
+}
+
+#menu-header li
+
+{
+
+    display: inline-block;
+
+    text-transform: uppercase;
+
+    padding-left:14px;
+
+    font-size:12px;
+
+    font-family: Futura Std;
+
+    font-weight:100;
+
+}
+
+a
+
+{
+
+    color:#b2afa3;
+
+    text-decoration:none;
+
+}
+
+#languages
+
+{
+
+    float:left;
+
+    margin-top:34px;
+
+    margin-right: 30px;
+
+}
+
+h2
+
+{
+
+    font-size:60px;
+
+    margin:0;
+
+    padding:0;
+
+}
+
+#social-media
+
+{
+
+    float:left;
+
+}
+
+.right
+
+{
+
+    float:right;
+
+}
+
+#fb
+
+{
+
+    background-image:url('images/red/facebook.png');
+
+    width:80px;
+
+    height:80px;
+
+    float:left;
+
+}
+
+#tw
+
+{
+
+    background-image:url('images/red/twitter.png');
+
+    width:80px;
+
+    height:80px;
+
+    float:left;
+
+}
+
+#colors
+
+{
+
+    color:#fff;
+
+}
+
+#columns
+
+{
+
+    width:800px;
+
+    margin:0 auto;
+
+}
+
+.column
+
+{
+
+    margin-top:10%;
+
+    float:left;
+
+    text-transform: uppercase;
+
+    color:#fff;
+
+    width:25%;
+
+    margin-left:10%;
+
+    font-size:14px;
+
+}
+
+.column:first-child
+
+{
+
+    margin-left:0;
+
+}
+
+.red
+
+{
+
+    color:#cf2f27;
+
+}
+
+.black
+
+{
+
+    color:#000;
+
+}
+
+#footer-content
+
+{
+
+    width: 75%;
+
+    margin: 0 auto;
+
+}
+
+.white
+
+{
+
+    color:#fff;
+
+}
+
+.row::after
+
+{
+
+    clear:both;
+
+}
+
+#they-trust-us
+
+{
+
+    background-image: url('images/red/background-bridge.jpg');
+
+    background-size:100% 100%;
+
+    height:940px;
+
+    margin-top:100px;
+
+    background-repeat:no-repeat;
+
+    padding-top: 202px;
+
+    box-sizing: border-box;
+
+}
+
+#they-trust-us h2
+
+{
+
+    text-align:right;
+
+}
+
+#content
+
+{
+
+    width:1000px;
+
+    margin:0 auto;
+
+}
+
+.picture
+
+{
+
+    float:left;
+
+    width:25%;
+
+}
+
+#pictures
+
+{
+
+    margin-top:130px;
+
+}
+
+footer
+
+{
+
+    background-color:#171616;
+
+    margin: 0 auto;
+
+}
+
+#footer-content h2
+
+{
+
+    width:250px;
+
+    color:#fff;
+
+    float:left;
+
+}
+
+footer ul
+
+{
+
+    float:right;
+
+    padding:0;
+
+    margin: 0 0 0 10px;
+
+    text-align:right;
+
+}
+
+footer ul li
+
+{
+
+    margin-left:0;
+
+    margin-top:8px;
+
+    display:block;
+
+    color:#fff;
+
+}
+
+.social-media:before
+
+{
+
+    content: url('images/red/white-straight-line.png');
+
+    position:relative;
+
+    right:30px;
+
+}
+
+.social-media
+
+{
+
+    display:table-cell;
+
+    width: 280px;
+
+    color:#fff;
+
+    margin-left:30px;
+
+    vertical-align: middle;
+
+}
+
+#socialmedias
+
+{
+
+    display:table;
+
+    text-transform: uppercase;
+
+    font-size:14px;
+
+    margin: 0 auto;
+
+    margin-top:110px;
+
+    padding-left: 30px;
+
+}
+
+.social-media-info
+
+{
+
+    display:inline-block;
+
+    margin-left:35px;
+
+}
+
+footer ul
+
+{
+
+    margin-top:20px;
+
+}
+
+.gray
+
+{
+
+    color:#9f9f9f
+
+}
+
+.real-red
+
+{
+
+    color:red;
+
+}
+
+#scroll
+
+{
+
+    cursor:pointer;
+
+}
+
+.required
+
+{
+
+    margin-top:20px;
+
+}
+
+header .right #social-media a
+
+{
+
+    float:left;
+
+}
+
+.menu-header-container
+
+{
+
+    float:left;
+
+}
+
+.flat img {
+
+    width:408px;
+
+    height:333px;
+
+}
+
+footer
+
+{
+
+    background-color:#171616;
+
+    margin:0 auto;
+
+}
+
+#footer-content h2
+
+{
+
+    width:250px;
+
+    color:#fff;
+
+    float:left;
+
+}
+
+footer ul
+
+{
+
+    float:right;
+
+    margin:0;
+
+    padding:0;
+
+    margin-left:10px;
+
+    text-align:right;
+
+}
+
+footer ul li
+
+{
+
+    margin-left:0;
+
+    display:block;
+
+    color:#fff;
+
+    text-transform: uppercase;
+
+}
+
+.description
+
+{
+
+    text-transform: uppercase;
+
+}
+
+
+
+.current-menu-item a {
+
+    color:#000;
+
+}
+
+#languages
+
+{
+
+    color:#000;
+
+    font-family:Futura Std;
+
+}
+
+#big-picture h2
+
+{
+
+    font-family: Futura Ext;
+
+}
+
+label
+
+{
+
+    font-family: Futura Std;
+
+}
+
+.results
+
+{
+
+    font-family: HelveticaLTStd Cond;
+
+}
+
+h3
+
+{
+
+    font-family: Futura Std;
+
+}
+
+#phase-two label
+
+{
+
+    font-family: Tahoma ;
+
+}
+
+#footer-content h2
+
+{
+
+    font-family: Futura Ext;
+
+}
+
+#footer-content ul .current-menu-item a  
+
+{
+
+    color:#fff;
+
+}
+
+#footer-content ul li a {
+
+    font-family: Futura Ext;
+
+    font-size:14px;
+
+}
+
+.social-media-info
+
+{
+
+    font-family: HelveticaLt Bold;
+
+    color:#fff;
+
+}
+
+#content h2
+
+{
+
+    font-family: Futura Ext;
+
+}
+
+#overlay
+
+{
+
+    display:none;
+
+    background-color: rgba(0,0,0, 0.5);
+
+    position: fixed;
+
+    top: 0;
+
+    left: 0;
+
+    width: 100%;
+
+    height: 100%;
+
+}
+.supporter:nth-child(1) 
+{
+    margin-left: 0;
+}
+.supporter 
+{
+    margin-left: 120px;
+    display:inline-block;
+}
+#supporters
+
+{
+    text-align:center;
+    margin-top:100px;
+    margin-bottom:120px;
+
+}
+
+#socialmedias a
+{
+    position: relative;
+    top: -15px;
+}

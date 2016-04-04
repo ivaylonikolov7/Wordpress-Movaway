@@ -1,0 +1,131 @@
+#big-picture
+{
+    background-image: url('../images/red/background-picture-list.jpg');
+    height:500px;
+    background-size:cover;
+    padding-top:10%;
+    box-sizing: border-box;
+}
+#big-picture h2
+{
+    text-align:Center;
+    text-transform: uppercase;
+    font-size:60px;
+}
+.red
+{
+    color:#d5352d;
+}
+main
+{
+    background-color:#cf2f27;
+    height:1000px;
+    width:100%;
+    padding-top:150px;
+}
+#list-of-flats
+{
+    margin:0 auto;
+    width:1239px
+}
+label
+{
+    color:#fff;
+    text-transform: uppercase;
+    position:relative;
+}
+label::before
+{
+    content: url('../images/red/adress-logo.png');
+    position:relative;
+    left:-5px;
+}
+input
+{
+    width:350px;
+    height:57px;
+    background-color:#99221c;
+    border:0 solid pink;
+    color:#fff;
+    margin-left:20px;
+    padding-left:30px;
+}
+input:focus
+{
+    outline: #83130d solid 1px;
+}
+*::-webkit-input-placeholder {
+    color: #f9f5f5;
+    font-size:11px;
+}
+*:-moz-placeholder {
+    /* FF 4-18 */
+    color: #f9f5f5;
+    font-size:11px;
+}
+*::-moz-placeholder {
+    /* FF 19+ */
+    color: #f9f5f5;
+    font-size:11px;
+}
+*:-ms-input-placeholder {
+    /* IE 10+ */
+    color: #f9f5f5;
+    font-size:11px;
+}
+#input-adress
+{
+    float:left;
+}
+#buttons
+{
+    float:right;
+}
+#filters
+{
+    width:100%;
+    margin:0 auto;
+}
+select
+{
+    -webkit-appearance: none;        /*Removes default chrome and safari style*/
+    -moz-appearance: none;
+    background-image:url('../images/red/arrow-select.png');
+    background-repeat:no-repeat;
+    background-position: 130px 25px;
+    background-color:#fff;
+    color:#cf2f27;
+    height:55px;
+    width:150px;
+    font-size:11px;
+    text-indent:12px;
+
+}
+select:hover
+{
+    color:#000;
+}
+.row
+{
+    margin-top:5px;
+}
+h2
+{
+    font-size:60px;
+}
+.button
+{
+    color:#fff;
+    display: inline-block;
+    padding: 15px 10px;
+    margin-right:5px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    font-family:Futura Std;
+    font-family:11px;
+}
+
+.location
+{
+    font-family: Futura Std;
+}

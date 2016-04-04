@@ -1,0 +1,13 @@
+select
+{
+    color:red;
+}
+.sod_select
+{
+    border:0 solid #000;
+}
+.sod_list_wrapper
+{
+    border:0 solid #000 !important;
+    left:3px !important;
+}

@@ -1,0 +1,161 @@
+#flats
+{
+    background-image:url('../images/red/urban3.jpg');
+    background-size:100% 100%;
+    height:700px;
+    padding-top:70px;
+}
+#apartments
+{
+    width:1274px;
+    height: 500px;
+    margin:0 auto;
+    margin-top:100px;
+}
+.flat
+{
+    overflow:hidden;
+    float:left;
+    width:32%;
+    margin-left:5px;
+    height:530px;
+}
+.flat:nth-child(even)
+{
+    background-color:#d23129;
+    color:#fff;
+}
+.flat:nth-child(odd)
+{
+    background-color:#ffffff;
+    color:#d23129;
+}
+.column hr
+{
+    width:48px;
+    height:1px;
+    background-color:#3d3c3c;
+    border:0 solid #000;
+    margin-left:0;
+    margin-top:10%;
+    margin-bottom:10%;
+    word-spacing:12px;
+}
+.flat hr
+{
+    height:1px;
+    background-color:#ccc;
+    border:0 solid #000;
+    margin:0;
+    margin-top:20px;
+    margin-left:0;
+}
+#flats h2
+{
+    width: 1274px;
+    margin:0 auto
+}
+.flat:nth-child(odd) .bed:before
+{
+    content:url('../images/red/bed-gray.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(even) .bed:before
+{
+    content:url('../images/red/white-bed.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(odd) .calendar:before
+{
+    content:url('../images/red/calendar-gray.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(even) .calendar:before
+{
+    content:url('../images/red/calendar-white.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(odd) .price:before
+{
+    content:url('../images/red/price-gray.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(even) .price:before
+{
+    content:url('../images/red/price-white.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(odd) .time:before
+{
+    content:url('../images/red/time-gray.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(even) .time:before
+{
+    content:url('../images/red/time-white.png');
+    position: relative;
+    left: -20px;
+    top: 3px;
+}
+.flat:nth-child(odd) .legend
+{
+    color:#9f9f9f;
+}
+.flat:nth-child(even) .legend
+{
+    color:#fff;
+}
+
+.legends
+{
+    margin-left:49px;
+    margin-top:18px;
+}
+
+.legend
+{
+    font-size:13px;
+    font-family: 'Times New Roman';
+}
+
+.bed.legend
+{
+
+}
+.first-column
+{
+    float:left;
+}
+.second-column
+{
+    float:left;
+}
+.info-pre-line
+{
+    margin-top:24px;
+    margin-left:29px;
+}
+.location
+{
+    margin-top:14px;
+    font-size:20px;
+}
+.profession
+{
+    text-transform: uppercase;
+    font-weight:bold;
+}

@@ -1,0 +1,155 @@
+#big-picture
+{
+    background-image:url("../images/blue/blue-jobs-background.jpg");
+    background-size:100% 100%;
+    width:100%;
+    height:500px;
+    padding-top:100px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#big-picture h2
+{
+    font-size:60px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.job-content
+{
+    width:1000px;
+    margin: 0 auto;
+    padding-top:100px;
+}
+.job-content .job-number
+{
+    display: inline-block;
+    font-size: 52px;
+    margin: 0;
+    padding: 0;
+    color:#33537e;
+}
+.job-content .job-title
+{
+    width: 220px;
+    margin-left:20px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.job-content .header-job .job-title
+{
+    font-size:20px;
+}
+.job-content h3
+{
+    margin:0;
+    padding:0;
+}
+hr
+{
+    background-color:#d8d6ce;
+    width:40px;
+    height:1px;
+    border:0 solid #fff;
+    margin:0;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.job-content .question
+{
+    color:#000;
+    font-size:16px;
+    margin-bottom:20px;
+}
+.job-content .answer
+{
+    color:#a7a396;
+    font-size:16px;
+}
+.job-content .job-text
+{
+    width:420px;
+}
+.job-content .job-text
+{
+    float:left;
+}
+.job-content .job-image
+{
+    float:left;
+    margin-top:-220px;
+    margin-left:80px;
+}
+.blue-background
+{
+    background-image:url('../images/blue/second-background-jobs.png');
+    background-size:100% 100%;
+    width:100%;
+    padding-top:50px;
+    height:723px;
+    margin-top: 200px;
+}
+.blue-background .job-content .job-image
+{
+    margin-right:80px;
+    margin-left:0;
+}
+.blue-background .job-content .job-number
+{
+    color:#fff;
+}
+.description-job
+{
+    color:#fff;
+}
+.bonus
+{
+    margin-top:50px;
+    color:#fff;
+}
+.job-content ul
+{
+    margin:0;
+    padding:0;
+}
+.job-content ul li
+{
+    display:block;
+    text-transform: none;
+    margin-left:0;
+    color:#a7a396;
+    margin-top:10px;
+}
+.bold
+{
+    font-weight:bold;
+    color:#000;
+}
+.job-content ul li:before
+{
+    content:'-';
+    padding-right:10px;
+    color:#000;
+}
+.black-button
+{
+    margin:0 auto;
+    margin-top:50px;
+    width:270px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+    text-align:center;
+    border: 1px solid #000;
+    cursor:pointer;
+    color:#000;
+}
+.header-job
+{
+    font-family: Futura Ext;
+}
+.job-text
+{
+    font-family: HelveticaLTStd Cond;
+}

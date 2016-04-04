@@ -1,0 +1,61 @@
+body
+{
+    font-family: HelveticaLTStd Cond;
+}
+#big-picture
+{
+    background-image: url('../images/blue/blue-background-recruitment.jpg');
+    background-size:100% 100%;
+    width: 100%;
+    height:490px;
+    padding-top:100px;
+    text-align:center;
+    box-sizing: border-box;
+}
+#after-big-picture
+{
+    background-image: url('../images/blue/after-blue-recruitment-background.png');
+    background-size:100% 100%;
+    width:100%;
+    height:256px;
+    text-align:center;
+}
+#after-big-picture img
+{
+    margin-top:-90px;
+}
+#content-recruitment
+{
+    width:1000px;
+    margin:0 auto;
+    padding-top:150px;
+    text-align: center;
+}
+#content-recruitment h2
+{
+    font-size: 40px;
+    color:#000;
+}
+.content-p-recruitment
+{
+    margin-top:100px;
+    color:#9f9f9f;
+}
+.contact-us
+{
+    margin-top:50px;
+    font-size:20px;
+}
+.p-content
+{
+    width:500px;
+    margin:0 auto;
+}
+.email
+{
+    color:#33537e;
+}
+h2
+{
+    font-family: Futura Std;
+}
