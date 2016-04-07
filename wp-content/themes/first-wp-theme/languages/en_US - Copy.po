@@ -1,0 +1,201 @@
+
+msgid "࡬a recherche"
+msgstr "Looking "
+
+msgid "dӵn job ?"
+msgstr "for a job?"
+
+msgid "vos entretiens sont assur곢
+msgstr "Your Interviews are ensured"
+
+msgid "Quoi de mieux pour sӡmꭩorer en anglais que de dꤲocher un job ࡌondres"
+msgstr "What better way to learn English than to land a job in London?"
+
+msgid "Movaway vous offre une vraie exp곩ence professionnelle au cݵr de la capitale britannique !"
+msgstr "Movaway offers a true professional experience in the heart of the British capital!  "
+
+msgid "Quel que soit votre parcours professionnel et vos comp굥nces, nous vous assurons votre emploi avec nos entreprises partenaires et un suivi pendant votre sꫯur pour seulement ó49."
+msgstr "Whatever your career and your skills, we will get you a job with our partner companies for just ó49."
+
+msgid "MOVAWAY ET SES PARTENAIRES"
+msgstr "MOVAWAY AND THEIR PARTNERS"
+
+msgid "Movaway entretient des relations de confiance avec ses partenaires pour vous garantir une exp곩ence de qualit鮢
+msgstr "Movaway maintains relationships of trust with itӳ partners to ensure that you have a good experience.  "
+
+msgid "Ceux-ci sont tr鳠vari고: du restaurant gastronomique aux clubs prestigieux de Mayfair en passant par des boutiques trendy."
+msgstr "Our partners are very diverse: from gourmet restaurants in Mayfair to prestigious clubs and trendy boutiques."
+
+msgid "De plus, environ 70% des entreprises avec lesquelles nous travaillons sont dirig꦳ par des directeurs francophones,"
+msgstr "In addition, approximately 70% of the companies that we work "
+
+msgid "ce qui facilite ꯯rmꮥnt les premiers entretiens."
+msgstr "with are run by French managers, which greatly facilitates the first interviews"
+
+msgid "D꤯uvrez les jobs Movaway"
+msgstr "Discover Jobs with Movaway"
+
+msgid "Restauration"
+msgstr "Restaurants"
+
+msgid "Sandwicherie/Caf颍
+msgstr "Cafe"
+
+msgid "H𴥬lerie"
+msgstr "Hotels"
+
+msgid "English"
+msgstr "English"
+
+msgid "Discoth鲵es"
+msgstr "Nightclubs"
+
+msgid "Vente en boutique"
+msgstr "Sales assistent"
+
+msgid "serveur(se), commis serveur(se), cuisinier(e), commis de cuisine, barman."
+msgstr "waiting staff, chef, bar tender, kitchen porter"
+
+msgid "sandwichs maker, vendeur(se), barista."
+msgstr "Sandwich maker, barista"
+
+msgid "rꤥptionniste, serveur."
+msgstr ": Receptionist, waiter"
+
+msgid "Nous offrons 40 heures de cours dӡnglais pour tout candidat qui souscrit au pack job."
+msgstr ""
+
+msgid "barman, chef dөquipe, organisateur dөv鯥ment."
+msgstr "bartender, team leader, events organiser"
+
+msgid "v뵥ments, informatique, tꭩphonie."
+msgstr "Clothing shops, computer shops, phone shop"
+
+msgid "TOUTES LES RESPONSES"
+msgstr "All the answers "
+
+msgid "A VOS QUESTIONS."
+msgstr "to your questions"
+
+msgid "Stages"
+msgstr "Internships"
+
+msgid "Dois-je payer des frais dөnscription ?"
+msgstr "Do I pay a registration fee?"
+
+msgid "Non. Movaway reste gratuit jusquӡu moment o񠶯us aurez trouv顥t accept顬e stage qui vous convient."
+msgstr "No. Movaway remains free until you have found and accepted an internship."
+
+msgid "Comment postuler pour un stage ?"
+msgstr "How do I apply for an internship?"
+
+msgid "Visitez la rubrique Ԏos StagesԠet suivez la procꥵre qui vous permettra de choisir la meilleure opportunit顰armi nos offres disponibles."
+msgstr "Visit ˠOur Courses; and follow the instructions that will help you to choose the best opportunity available among our offers."
+
+msgid "Comment suivre ma requ뵥 de stage ?"
+msgstr "How do I track my internship request?"
+
+msgid "Notre 겵ipe est ࡶotre disposition et vous tiendra rꨵli鳥ment inform顤e lөvolution de votre demande."
+msgstr "Our team is at your disposal and will keep you regularly informed of the progress of your request"
+
+msgid "Mon stage est-il officialis顰ar un contrat ?"
+msgstr "Is my internship formalised in a contract?"
+
+msgid "Bien 귩demment. Toutes les offres de stage Movaway sont sous contrat."
+msgstr "Of course.  All Movaway internship offers are under contract."
+
+msgid "Est-il possible de soliciter vos services ࡰlusieurs reprises ?"
+msgstr "Is it posible to request your services on several occasions?"
+
+msgid "Oui."
+msgstr "Yes."
+
+msgid "JOBS"
+msgstr "Jobs"
+
+msgid "Comment Movaway peut mӡider ࡴrouver un job ?"
+msgstr "How can Movaway help me find a job?"
+
+msgid "Movaway vous trouve rapidement des entretiens avec des restaurants, bars, boutiques ࡲꢬiser sur place ࡌondres."
+msgstr "Movaway will quickly find you interviews with restaurants, bars and shops which will be held in London."
+
+msgid "Comment profiter de lӯffre de job de Movaway ?"
+msgstr "How do I get a job via Movaway?"
+
+msgid "Cӥst tr鳠simple, il suffit de contacter Movaway par email ࡣontact@movaway.com en envoyant votre CV. Vous aurez alors un rendez-vous avec un membre de lөquipe qui proposera ensuite des entretiens avec nos entreprises partenaires sur place."
+msgstr "Itӳ very simple, just send us an email at contact@movaway.com with your CV.  You will then have an appointment with a member of the team who will offer you some interviews with companies based in London."
+
+msgid "Quel type de postes propose Movaway ?"
+msgstr "What kind of jobs does Movaway offer?"
+
+msgid "Il sӡgit de jobs 굵diants, cӥst-தire principalement en tant que serveur, barman, rꤥptionniste, etc."
+msgstr "Student jobs, for example waiting staff, bartender, receptionist etc."
+
+msgid "Les jobs sont-ils ࡴemps complet ou ࡴemps partiel ?"
+msgstr "Are the jobs full time or part time?"
+
+msgid "Les jobs propos고sont adapt고ࡶos besoins : Movaway vous trouvera donc des jobs ࡴemps complet ou ࡴemps partiel selon vos envies."
+msgstr "The jobs offered are tailored to your needs.  Movaway can find you full or part time positions to suit your needs."
+
+msgid "A quel moment dois-je rꨬer les frais ?"
+msgstr "When should I pay the fees?"
+
+msgid "Pour les jobs, les frais sont ࡲꨬer avant de passer vos entretiens."
+msgstr "For jobs, the fee are to be paid before completing any interviews in London"
+
+msgid "Comment me pr걡rer pour les entretiens ?"
+msgstr "How do I prepare for my interviews?"
+
+msgid "Movaway peut, si vous le souhaitez, vous donner des conseils et m뮥 vous donner des sꢮces de coaching pour les entretiens."
+msgstr "Movaway, can help you with tips and advice for how to perform in an interview."
+
+msgid "LOGEMENTS"
+msgstr "Accomodation"
+
+msgid "Comment r괥rver une chambre ?"
+msgstr "How do I book a room?"
+
+msgid "Cӥst tr鳠simple, il suffit de vous rendre sur la page consacrꥠaux logements, puis de cliquer sur le logement qui vous int곥sse, et enfin, en bas de la page, vous trouverez un bandeau qui vous permet de r괥rver directement en ligne."
+msgstr "Itӳ very simple, just visit the housing page and click on the accomodation that interests you, and finally at the bottom of the page click on the reservation button."
+
+msgid "Pourquoi r괥rver une chambre ?"
+msgstr "Why do I need to reserve a room?"
+
+msgid "Il est prꧩrable de r괥rver une chambre pour 뵲e s󲠤ӡvoir un endroit o񠶩vre d鳠votre arrivꥮ Les logements londoniens trouvent preneur tr鳠rapidement, il vaut donc mieux prendre les devants."
+msgstr "It is best to make a reservation to be sure that you have a place to stay when you arrive in London.  The London housing market moves quickly so itӳ worth taking the lead."
+
+msgid "Est-il possible de visiter la chambre avant/apr鳠lӡvoir r괥rv頿"
+msgstr "Is it possible to see the room before/after you have booked?"
+
+msgid "Si vous 뵥s dꫠ sur place, il est possible de visiter la chambre ࡴout moment en prenant rendez-vous auparavant."
+msgstr "If you are already in London it is possible to visit the room at any time by booking an appointment in advance."
+
+msgid "Quels sont les frais de r괥rvation dӵne chambre ?"
+msgstr "What is the room reservation fee?"
+
+msgid "Les frais de r괥rvation dӵne chambre 겵ivalent ࡵne semaine de loyer."
+msgstr "The reservation fee is equivilant to one weekӳ rent."
+
+msgid "Quels types de logements propose Movaway?"
+msgstr "What kind of housing does Movaway offer?"
+
+msgid "Movaway propose des chambres situ꦳ aux quatre coins de Londres"
+msgstr "Movaway offers rooms in flatshares all over London."
+
+msgid "A quel genre de colocataires puis-je mӡttendre ?"
+msgstr "What kind of roommates can I expect?"
+
+msgid "Les locataires de ces logements sont tous des 굵diants ou jeunes actifs de diff곥ntes nationalit곮"
+msgstr "The tenants are all students or young professionals of different nationalities"
+
+msgid "Quӥst-ce que comprend le loyer ?"
+msgstr "What does the rent include?"
+
+msgid "Le loyer comprend l’électricité gaz, lӥau, la taxe dӨabitation et internet."
+msgstr "The rent includes electricity, gas, water, councit tax and internet bills."
+
+msgid "Les logements sont-ils meubl고et 겵ip고?"
+msgstr "Is the housing fully furnished?"
+
+msgid "Oui, les logements sont totalement meubl고et 겵ip곮"
+msgstr "Yes, all accomodation is fully furnished and equipped."

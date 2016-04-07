@@ -14,10 +14,10 @@
         <a href="http://www.movaway.fr/"><div id="logo"></div></a>
         <?php wp_nav_menu(array('menu' => 'header')) ?>
         <div class="right">
-            <div id="languages">
-                <div id="fr">FR</div>
+            <div id="languages">            
+                <div id="fr"><a href="<?=site_url();?>/fr/<?=$post->post_name; ?>">FR</a></div>
                 <div class="split">|</div>
-                <div id="en">EN</div>
+                <div id="en"><a href="<?=site_url();?>/en/<?=$post->post_name; ?>">EN</a></div>
             </div>
             <div id="social-media">
                 <a href="https://www.facebook.com/Movaway" target="_blank"><div id="fb"></div></a>

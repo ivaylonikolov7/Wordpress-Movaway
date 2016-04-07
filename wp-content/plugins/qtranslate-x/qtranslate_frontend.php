@@ -198,7 +198,7 @@ function qtranxf_add_language_menu_item(&$items, &$menu_order, &$itemid, $key, $
 	$url = '';
 	//options
 	$type='LM';//[LM|AL]
-	$title='Language';//[none|Language|Current]
+	$title='Language12';//[none|Language|Current]
 	$current=true;//[shown|hidden]
 	$flags=true;//[none|all|items]
 	$lang_names=true;//names=[shown|hidden]
@@ -222,7 +222,7 @@ function qtranxf_add_language_menu_item(&$items, &$menu_order, &$itemid, $key, $
 		if(isset($pars['title'])){
 			$title=$pars['title'];
 			if(stripos($pars['title'],'no')!==FALSE) $title='';
-			if(!$topflag && empty($title)) $title='Language';
+			if(!$topflag && empty($title)) $title='Language12';
 		}
 		if(isset($pars['colon'])){
 			$colon = (stripos($pars['colon'],'hid')===FALSE);
@@ -261,7 +261,7 @@ function qtranxf_add_language_menu_item(&$items, &$menu_order, &$itemid, $key, $
 	}
 	if($topflag){
 		if(!empty($item->title)){
-			if($colon) $item->title.=_x(':', 'Colon after a title. For example, in top item of Language Menu12.', 'qtranslate');
+			if($colon) $item->title.=_x(':', 'Colon after a title. For example, in top item of Language Menu.', 'qtranslate');
 			$item->title.='&nbsp;';
 		}
 		$item->title.='<img src="'.$flag_location.$q_config['flag'][$toplang].'" alt="'.$q_config['language_name'][$toplang].'" />';//.' '.__('Flag', 'qtranslate')
@@ -326,9 +326,8 @@ function qtranxf_add_language_menu_item(&$items, &$menu_order, &$itemid, $key, $
 		$item->classes[] = 'qtranxs-lang-menu-item';
 		$item->classes[] = 'qtranxs-lang-menu-item-'.$lang;
 		//qtx specific properties
-		$item->item_lang = $lang;//to store the language assigned
+		$item->item_lang = $lang;		
 		$items[]=$item;
-		//qtranxf_dbg_log('qtranxf_add_language_menu_item: language menu12 $item',$item);
 	}
 }
 

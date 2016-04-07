@@ -262,3 +262,8 @@ header .right #social-media a
 {
     float:left;
 }
+.ul
+{
+    margin:0;      
+    padding:0;
+}

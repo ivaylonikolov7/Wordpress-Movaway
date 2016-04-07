@@ -8,9 +8,9 @@
 
     <h2>
 
-        <div class="white">Découvrez</div>
+        <div class="white"><?php _e('Découvrez', 'movaway') ?></div>
 
-        <div class="red">NOS LOGEMENTS</div>
+        <div class="red"><?php _e('NOS LOGEMENTS', 'movaway') ?></div>
 
     </h2>
 
@@ -24,7 +24,7 @@
 
             <div id="input-adress">
 
-                <label for="adress">quartier</label>
+                <label for="adress"><?php _e('quartier', 'movaway') ?></label>
 
                 <input type="text" id="adress" placeholder="ENTREZ UN QUARTIER">
 
@@ -32,21 +32,21 @@
 
             <div id="buttons">
 
-                <div class="button" id='minimum-price'>LE MOINS CHER</div>
+                <div class="button" id='minimum-price'><?php _e('LE MOINS CHER', 'movaway') ?></div>
 
-                <div class="button" id='maximum-price'>LE PLUS CHER</div>
+                <div class="button" id='maximum-price'><?php _e('LE PLUS CHER', 'movaway') ?></div>
 
                 <select>
 
-                    <option selected="selected">DISPONIBILITE</option>
+                    <option selected="selected"><?php _e('DISPONIBILITE', 'movaway') ?></option>
 
-                    <option>DE SUITE</option>
+                    <option><?php _e('DE SUITE', 'movaway') ?></option>
 
-                    <option>DANS 1 MOIS</option>
+                    <option><?php _e('DANS 1 MOIS', 'movaway') ?></option>
 
-                    <option>DANS 2 MOIS</option>
+                    <option><?php _e('DANS 2 MOIS', 'movaway') ?></option>
 
-                    <option>DANS 3 MOIS</option>
+                    <option><?php _e('DANS 3 MOIS', 'movaway') ?></option>
 
                 </select>
 
@@ -110,7 +110,7 @@
 
                 <div class="price legend">£<?=get_field('weekly_rent')?></div>
 
-                <div class="time legend"> MIN <?=get_field('duration')?> MOIS</div>
+                <div class="time legend"> MIN <?=get_field('duration')?> <?php _e('MOIS', 'movaway') ?></div>
 
             </div>
 

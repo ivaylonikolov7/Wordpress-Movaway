@@ -644,7 +644,7 @@ input[type=number]
 .long-text
 {
     overflow-y:scroll;
-    width:95%;
+    width:820px;
     padding:10px;
     height:500px;
     margin:0 auto;

@@ -8,19 +8,26 @@
 </div>
 
 <section id="contact">
-    <p id="text-before-form">N’hésitez pas à nous contacter pour toute informations relatives à la recherche de Job / Stage ou Logement.</p>
+    <p id="text-before-form">
+        <?php _e('N&#8216;hésitez pas à nous contacter pour toute informations relatives à la recherche de Job / Stage ou Logement.', 'movaway'); ?> 
+    </p>
     <div id="form-contact">
         <hr />
         <div class="form-column">
             <div class="form-row">
                 <div class="label">
-                    <label for="name">Nom *</label>
+                    <?php _e('', 'movaway'); ?>
+                    <label for="name">
+                        <?php _e('Nom *', 'movaway'); ?>
+                    </label>
                 </div>
                 <input type="text" id="name">
             </div>
             <div class="form-row">
                 <div class="label">
-                    <label for="email">Email *</label>
+                    <label for="email">
+                        Email *
+                    </label>
                 </div>
                 <input type="text" id="name">
             </div>
@@ -31,7 +38,7 @@
                 <input type="text" id="skype">
             </div>
             <div id="required-text-form">
-                Les champs marqués d'une* sont obligatoires
+                <?php _e('Les champs marqués d une* sont obligatoires', 'movaway'); ?>
             </div>
             <div id="movaway-cotact-types">
                 <h3>MOVAWAY</h3>
@@ -73,7 +80,7 @@
         <div class="form-column">
             <div class="form-row">
                 <div class="label">
-                    <label for="prenom">PRENOM * </label>
+                    <label for="prenom"><?php _e('PRENOM *', 'movaway'); ?> </label>
                 </div>
                 <input type="text" id="prenom">
             </div>
@@ -83,7 +90,7 @@
                 </div>
                 <textarea id="message"></textarea>
                 <div class="clear"></div>
-                <div id="form-button">NOUS CONTACTER</div>
+                <div id="form-button"><?php _e('NOUS CONTACTER', 'movaway'); ?></div>
             </div>
         </div>
         <div class="clear"></div>

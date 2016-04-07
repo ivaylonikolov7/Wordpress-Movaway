@@ -306,6 +306,7 @@
 
 		register_nav_menu('footer', 'Footer Navigation');
 
+		register_nav_menu('languages', 'Language Navigation' );
 	}
 
 	function filterstrpos($haystack,$needle)
@@ -500,6 +501,11 @@
 		
 	}
 
+	function movaway_text_domain_setup()
+	{
+	    load_theme_textdomain('movaway', get_template_directory() . '/languages');
+	}
+
 	add_filter( 'wp_page_menu_args', 'home_page_menu_args' );
 
 	add_action( 'init', 'my_custom_job_product' );
@@ -521,5 +527,6 @@
 	add_action('after_setup_theme', 'movaway_setup_menu');
 
 	add_filter('show_admin_bar', '__return_false');
-
+	
+	add_action('after_setup_theme', 'movaway_text_domain_setup');
 ?>

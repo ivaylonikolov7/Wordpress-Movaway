@@ -1,0 +1,297 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-06 01:02+0200\n"
+"PO-Revision-Date: 2016-04-06 01:02+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+msgid "ARTS & DESIGN"
+msgstr ""
+
+msgid "Administration & Secrétariat"
+msgstr ""
+
+msgid "DROIT"
+msgstr ""
+
+msgid "Découvrez"
+msgstr ""
+
+msgid "ENVIE DE"
+msgstr ""
+
+msgid "Finance & Comptabilité"
+msgstr ""
+
+msgid ""
+"J’ai toujours voulu vivre à Londres mais je n’ai jamais osé me lancer. Quand "
+"un ami m’a parlé de Movaway, je me suis dit que c’était l’occasion alors je "
+"les ai contacté. Comme j’étais barman à Paris, ils m’ont trouvé 3 entretiens "
+"avec des bars que je suis venu faire sur place, et je ne suis jamais reparti "
+"puisque je suis actuellement barman à Fulham, et j’habite dans le même "
+"quartier car Movaway m’a trouvé une chambre pas loin. Le bon plan quoi !"
+msgstr ""
+
+msgid "LOGEMENTS DISPONIBLES SUR LONDRES"
+msgstr ""
+
+msgid "Logistique & Supply chain"
+msgstr ""
+
+msgid "MIN MOIS"
+msgstr ""
+
+msgid ""
+"Ma cousine était passée par cette agence l’année dernière et en était très "
+"satisfaite. N’ayant pas un très bon niveau d’anglais j’ai décidé de suivre "
+"son exemple. Le responsable m’a assuré qu’il me trouverait un stage dans les "
+"délais et respectant mes attentes. C’est exactement ce qu’il a fait, j’ai "
+"effectué mon stage dans une entreprise de finance, certains de mes collègues "
+"étaient français ce qui m’a rassuré au début."
+msgstr ""
+
+msgid "Management & RH"
+msgstr ""
+
+msgid "Marketing & Communication"
+msgstr ""
+
+msgid "NOS STAGES"
+msgstr ""
+
+msgid ""
+"Ne trouvant pas de stage en marketing communication par mes propres moyens, "
+"je suis passée par l’agence Movaway. Tout a été très rapide puisqu’en deux "
+"semaines j’avais mon stage (Avec conventions) et mon logement selon mes "
+"critères. Mon stage s’est déroulé dans une startup londonienne, j’ai donc eu "
+"beaucoup de responsabilités. Dans ma colocation nous étions 5 : 3 français "
+"et 2 australiens. Je remercie l’agence pour cette inoubliable expérience."
+msgstr ""
+
+msgid "STAGES DISPONIBLES SUR LONDRES"
+msgstr ""
+
+msgid "STAGIAIRE en communication"
+msgstr ""
+
+msgid "TYPE DE STAGE"
+msgstr ""
+
+msgid "Témoignages"
+msgstr ""
+
+msgid "VOIR NOS LOGEMENTS"
+msgstr ""
+
+msgid "VOIR NOS stages"
+msgstr ""
+
+msgid "VOS meilleurs"
+msgstr ""
+
+msgid "VOUS INSTALLER"
+msgstr ""
+
+msgid ""
+"aucun paiement n’est demandé tant que la convention de stage n’est pas "
+"remplie."
+msgstr ""
+
+msgid "barman a fulham"
+msgstr ""
+
+msgid "commerce & vente"
+msgstr ""
+
+msgid "découvrir nos stages"
+msgstr ""
+
+msgid ""
+"movaway est l’agence de placement leader pour les jeunes français à londres."
+msgstr ""
+
+msgid "nos LOGEMENTS"
+msgstr ""
+
+msgid ""
+"nous avons une gamme de logements plus grande et de meilleure qualité que "
+"n’importe quelle autre agence de placement."
+msgstr ""
+
+msgid "numéro 1"
+msgstr ""
+
+msgid "pas de surprises"
+msgstr ""
+
+msgid "quantité / qualité"
+msgstr ""
+
+msgid "stage"
+msgstr ""
+
+msgid "stagiaire dans la finance"
+msgstr ""
+
+msgid "à LONDRES ?"
+msgstr ""
+
+#: index.php:97
+msgid "à la recherche  d’un"
+msgstr ""
+
+#: page-flat-list.php:13
+msgid "NOS LOGEMENTS"
+msgstr ""
+
+#: page-flat-list.php:27
+msgid "quartier"
+msgstr ""
+
+#: page-flat-list.php:35
+msgid "LE MOINS CHER"
+msgstr ""
+
+#: page-flat-list.php:37
+msgid "LE PLUS CHER"
+msgstr ""
+
+#: page-flat-list.php:41
+msgid "DISPONIBILITE"
+msgstr ""
+
+#: page-flat-list.php:43
+msgid "DE SUITE"
+msgstr ""
+
+#: page-flat-list.php:45
+msgid "DANS 1 MOIS"
+msgstr ""
+
+#: page-flat-list.php:47
+msgid "DANS 2 MOIS"
+msgstr ""
+
+#: page-flat-list.php:49
+msgid "DANS 3 MOIS"
+msgstr ""
+
+#: page-flat-list.php:113
+msgid "MOIS"
+msgstr ""
+
+#: page-internships.php:19
+msgid "Commerce & Vente"
+msgstr ""
+
+#: page-internships.php:20
+msgid "ADMINISTRATION & SECRÉTARIAT"
+msgstr ""
+
+#: page-internships.php:21
+msgid "LOGISTIQUE & SUPPLY CHAIN"
+msgstr ""
+
+#: page-internships.php:23
+msgid "MANAGEMENT & RH"
+msgstr ""
+
+#: page-internships.php:24
+msgid "FINANCE & COMPTABILITÉ"
+msgstr ""
+
+#: page-internships.php:25
+msgid "MARKETING & COMMUNICATION"
+msgstr ""
+
+#: page-internships.php:30
+msgid "Durée"
+msgstr ""
+
+#: page-internships.php:32
+msgid "3 MOIS"
+msgstr ""
+
+#: page-internships.php:33
+msgid "6 MOIS"
+msgstr ""
+
+#: page-internships.php:34
+msgid "9 MOIS"
+msgstr ""
+
+#: page-internships.php:69
+msgid "Début de stage le"
+msgstr ""
+
+#: page-jobs.php:4
+msgid "à la recherche"
+msgstr ""
+
+#: page-jobs.php:5
+msgid "d’un job ?"
+msgstr ""
+
+#: page-jobs.php:13
+msgid "vos entretiens sont assurés"
+msgstr ""
+
+#: page-jobs.php:36
+msgid "MOVAWAY ET SES PARTENAIRES"
+msgstr ""
+
+#: page-jobs.php:54
+msgid "Découvrez les jobs Movaway"
+msgstr ""
+
+#: page-jobs.php:61
+msgid "Restauration"
+msgstr ""
+
+#: page-jobs.php:62
+msgid "Sandwicherie/Café"
+msgstr ""
+
+#: page-jobs.php:62
+msgid "sandwichs maker, vendeur(se), barista."
+msgstr ""
+
+#: page-jobs.php:63
+msgid "Hôtellerie"
+msgstr ""
+
+#: page-jobs.php:63
+msgid "réceptionniste, serveur."
+msgstr ""
+
+#: page-jobs.php:64
+msgid "English"
+msgstr ""
+
+#: page-jobs.php:65
+msgid "Discothèques"
+msgstr ""
+
+#: page-jobs.php:65
+msgid "barman, chef d’équipe, organisateur d’évènement."
+msgstr ""
+
+#: page-jobs.php:66
+msgid "Vente en boutique"
+msgstr ""
+
+#: page-jobs.php:66
+msgid " vêtements, informatique, téléphonie."
+msgstr ""

@@ -1,0 +1,858 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-07 19:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: \n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid "ARTS & DESIGN"
+msgstr "Arts & Design"
+
+msgid "Administration & Secrétariat"
+msgstr "Administration & Secretarial"
+
+msgid "DROIT"
+msgstr "Law"
+
+msgid "Découvrez"
+msgstr "Find"
+
+msgid "ENVIE DE"
+msgstr "Want to "
+
+msgid "Finance & Comptabilité"
+msgstr "Finance & Accounting"
+
+msgid ""
+"J’ai toujours voulu vivre à Londres mais je n’ai jamais osé me lancer. Quand "
+"un ami m’a parlé de Movaway, je me suis dit que c’était l’occasion alors je "
+"les ai contacté. Comme j’étais barman à Paris, ils m’ont trouvé 3 entretiens "
+"avec des bars que je suis venu faire sur place, et je ne suis jamais reparti "
+"puisque je suis actuellement barman à Fulham, et j’habite dans le même "
+"quartier car Movaway m’a trouvé une chambre pas loin. Le bon plan quoi !"
+msgstr ""
+"I always wanted to live in London but I never dared to do it.  When a friend "
+"told  about Movaway, I thought it sounded like a great opportunity so I "
+"contacted them.   Since I was a bartender in Paris, they found me 3 "
+"interviews with bars in London, and  I never left because I’m currently a "
+"bartender in Fulham, and I live in the same  neighbourhood that Movaway "
+"found me a room in.  Great !"
+
+msgid "LOGEMENTS DISPONIBLES SUR LONDRES"
+msgstr "ROOMS AVAILABLE IN LONDON"
+
+msgid "Logistique & Supply chain"
+msgstr "Logistics & Supply Chain"
+
+msgid "MIN MOIS"
+msgstr "MINIMUM MONTHS"
+
+msgid ""
+"Ma cousine était passée par cette agence l’année dernière et en était très "
+"satisfaite. N’ayant pas un très bon niveau d’anglais j’ai décidé de suivre "
+"son exemple. Le responsable m’a assuré qu’il me trouverait un stage dans les "
+"délais et respectant mes attentes. C’est exactement ce qu’il a fait, j’ai "
+"effectué mon stage dans une entreprise de finance, certains de mes collègues "
+"étaient français ce qui m’a rassuré au début."
+msgstr ""
+"My cousin used the agency last year and was really happy with them. Not "
+"having very good level of English I decided to follow his example. The "
+"manager assured me he would find me an internship on time and within my "
+"expectations. This is exactly what he did, I did my internship in a finance "
+"company and some of my colleagues were French which reassured me."
+
+msgid "Management & RH"
+msgstr "Management & HR"
+
+msgid "Marketing & Communication"
+msgstr "Marketing & Communication"
+
+msgid "NOS STAGES"
+msgstr "OUR INTERNSHIPS"
+
+msgid ""
+"Ne trouvant pas de stage en marketing communication par mes propres moyens, "
+"je suis passée par l’agence Movaway. Tout a été très rapide puisqu’en deux "
+"semaines j’avais mon stage (Avec conventions) et mon logement selon mes "
+"critères. Mon stage s’est déroulé dans une startup londonienne, j’ai donc eu "
+"beaucoup de responsabilités. Dans ma colocation nous étions 5 : 3 français "
+"et 2 australiens. Je remercie l’agence pour cette inoubliable expérience."
+msgstr ""
+"I coudn’t find a communication internship on my own, so I went through "
+"Movaway agency.  Everything happened very quickly and within 2 weeks I had "
+"found my internship and my accomodation.  My internship took place in a "
+"London start-up where I had a lot of responsibility.  In my flatshare there "
+"were 5 people : 3 French and 2 Australia.  Thanks Movaway for this "
+"unforgettable experience."
+
+msgid "STAGES DISPONIBLES SUR LONDRES"
+msgstr "INTERNSHIPS AVAILABLE IN LONDON"
+
+msgid "STAGIAIRE en communication"
+msgstr "Communications Intern"
+
+msgid "TYPE DE STAGE"
+msgstr "TYPE OF INTERNSHIP"
+
+msgid "Témoignages"
+msgstr "testimonials"
+
+msgid "VOIR NOS LOGEMENTS"
+msgstr "See our rooms"
+
+msgid "VOIR NOS stages"
+msgstr "See our internships"
+
+msgid "VOS meilleurs"
+msgstr "Your best "
+
+msgid "VOUS INSTALLER"
+msgstr "move to "
+
+msgid ""
+"aucun paiement n’est demandé tant que la convention de stage n’est pas "
+"remplie."
+msgstr "No payment is required until the internship is agreed"
+
+msgid "barman a fulham"
+msgstr "bartender in Fulham"
+
+msgid "commerce & vente"
+msgstr "Business & Sales"
+
+msgid "découvrir nos stages"
+msgstr "Discover our internships"
+
+msgid ""
+"movaway est l’agence de placement leader pour les jeunes français à londres."
+msgstr ""
+"Movaway is the leading placement agency for young French people in London"
+
+msgid "nos LOGEMENTS"
+msgstr "accomodation"
+
+msgid ""
+"nous avons une gamme de logements plus grande et de meilleure qualité que "
+"n’importe quelle autre agence de placement."
+msgstr ""
+"We have more properties of better quality than any other placement agencies"
+
+msgid "numéro 1"
+msgstr "Number 1"
+
+msgid "pas de surprises"
+msgstr "No suprises"
+
+msgid "quantité / qualité"
+msgstr "Quantity/Quality"
+
+msgid "stage"
+msgstr "Internship"
+
+msgid "stagiaire dans la finance"
+msgstr "Finance Intern"
+
+msgid "à LONDRES ?"
+msgstr "London?"
+
+#: index.php:97
+msgid "à la recherche  d’un"
+msgstr "looking for a"
+
+#: page-flat-list.php:13
+msgid "NOS LOGEMENTS"
+msgstr "your accomodation"
+
+#: page-flat-list.php:27
+msgid "quartier"
+msgstr "AREA "
+
+#: page-flat-list.php:35
+msgid "LE MOINS CHER"
+msgstr "The less expensive"
+
+#: page-flat-list.php:37
+msgid "LE PLUS CHER"
+msgstr "The more expensive       "
+
+#: page-flat-list.php:41
+msgid "DISPONIBILITE"
+msgstr "Availability "
+
+#: page-flat-list.php:43
+msgid "DE SUITE"
+msgstr "ASAP in"
+
+#: page-flat-list.php:45
+msgid "DANS 1 MOIS"
+msgstr "1 month"
+
+#: page-flat-list.php:47
+msgid "DANS 2 MOIS"
+msgstr "2 months"
+
+#: page-flat-list.php:49
+msgid "DANS 3 MOIS"
+msgstr "3 months"
+
+#: page-flat-list.php:113
+msgid "MOIS"
+msgstr "MONTHS"
+
+#: page-internships.php:19
+msgid "Commerce & Vente"
+msgstr "Business & Sales"
+
+#: page-internships.php:20
+msgid "ADMINISTRATION & SECRÉTARIAT"
+msgstr "Administration & Secretarial"
+
+#: page-internships.php:21
+msgid "LOGISTIQUE & SUPPLY CHAIN"
+msgstr "Logistics & Supply Chain"
+
+#: page-internships.php:23
+msgid "MANAGEMENT & RH"
+msgstr "Management & HR"
+
+#: page-internships.php:24
+msgid "FINANCE & COMPTABILITÉ"
+msgstr "Finance & Accounting"
+
+#: page-internships.php:25
+msgid "MARKETING & COMMUNICATION"
+msgstr "Marketing & Communication"
+
+#: page-internships.php:30
+msgid "Durée"
+msgstr "Duration"
+
+#: page-internships.php:32
+msgid "3 MOIS"
+msgstr "3 MONTHS"
+
+#: page-internships.php:33
+msgid "6 MOIS"
+msgstr "6 MONTHS"
+
+#: page-internships.php:34
+msgid "9 MOIS"
+msgstr "9 MONTHS"
+
+#: page-internships.php:69
+msgid "Début de stage le"
+msgstr "Beginning of internship"
+
+#: page-jobs.php:4
+msgid "à la recherche"
+msgstr "Searching for"
+
+#: page-jobs.php:5
+msgid "d’un job ?"
+msgstr "a job ?"
+
+#: page-jobs.php:13
+msgid "vos entretiens sont assurés"
+msgstr "your interviews are insured"
+
+msgid "À LA RECHERCHE"
+msgstr "Looking "
+
+msgid "D’UN JOB ?"
+msgstr "for a job?"
+
+msgid "VOS ENTRETIENS SONT ASSURÉS"
+msgstr "Your Interviews are ensured"
+
+msgid "Quoi de mieux pour s’améliorer en anglais que de décrocher un job à Londres ?"
+msgstr "What better way to learn English than to land a job in London?"
+
+msgid "Movaway vous offre une vraie expérience professionnelle au cœur de la capitale britannique !"
+msgstr "Movaway offers a true professional experience in the heart of the British capital!  "
+
+msgid "Quel que soit votre parcours professionnel et vos compétences, nous vous assurons votre emploi avec nos entreprises partenaires et un suivi pendant votre séjour pour seulement £349."
+msgstr "Whatever your career and your skills, we will get you a job with our partner companies for just ó49."
+
+msgid "MOVAWAY ET SES PARTENAIRES"
+msgstr "MOVAWAY AND THEIR PARTNERS"
+
+msgid "Movaway entretient des relations de confiance avec ses partenaires pour vous garantir une expérience de qualité."
+msgstr "Movaway maintains relationships of trust with itӳ partners to ensure that you have a good experience."
+
+msgid "Ceux-ci sont très variés : du restaurant gastronomique aux clubs prestigieux de Mayfair en passant par des boutiques trendy."
+msgstr "Our partners are very diverse: from gourmet restaurants in Mayfair to prestigious clubs and trendy boutiques."
+
+msgid "De plus, environ 70% des entreprises avec lesquelles nous travaillons sont dirigées par des directeurs francophones,"
+msgstr "In addition, approximately 70% of the companies that we work "
+
+msgid "ce qui facilite énormément les premiers entretiens."
+msgstr "with are run by French managers, which greatly facilitates the first interviews"
+
+msgid "DÉCOUVREZ LES JOBS MOVAWAY"
+msgstr "Discover Jobs with Movaway"
+
+msgid "Restauration"
+msgstr "Restaurants"
+
+msgid "Sandwicherie/Café"
+msgstr "Cafe"
+
+msgid "Hôtellerie"
+msgstr "Hotels"
+
+msgid "Discothèques"
+msgstr "Nightclubs"
+
+msgid "Vente en boutique"
+msgstr "Sales assistent"
+
+msgid "serveur(se), commis serveur(se), cuisinier(e), commis de cuisine, barman."
+msgstr "waiting staff, chef, bar tender, kitchen porter"
+
+msgid "sandwichs maker, vendeur(se), barista."
+msgstr "Sandwich maker, barista"
+
+msgid "réceptionniste, serveur."
+msgstr ": Receptionist, waiter"
+
+msgid "barman, chef d’équipe, organisateur d’évènement."
+msgstr "bartender, team leader, events organiser."
+
+msgid "vêtements, informatique, téléphonie."
+msgstr "Clothing shops, computer shops, phone shop."
+
+msgid "TOUTES LES RESPONSES"
+msgstr "All the answers "
+
+msgid "A VOS QUESTIONS"
+msgstr "to your questions"
+
+msgid "Stages"
+msgstr "Internships"
+
+msgid "Dois-je payer des frais d&#8217;inscription ?"
+msgstr "Do I pay a registration fee?"
+
+msgid "Non. Movaway reste gratuit jusqu&#8217;au moment où vous aurez trouvé et accepté le stage qui vous convient."
+msgstr "No. Movaway remains free until you have found and accepted an internship."
+
+msgid "Comment postuler pour un stage ?"
+msgstr "How do I apply for an internship?"
+
+msgid "Visitez la rubrique &#8220;Nos Stages&#8220; et suivez la procédure qui vous permettra de choisir la meilleure opportunité parmi nos offres disponibles."
+msgstr "Visit &#8220;Our Courses;&#8220; and follow the instructions that will help you to choose the best opportunity available among our offers."
+
+msgid "Comment suivre ma requête de stage ?"
+msgstr "How do I track my internship request?"
+
+msgid "Notre équipe est à votre disposition et vous tiendra régulièrement informé de l&#8217;évolution de votre demande."
+msgstr "Our team is at your disposal and will keep you regularly informed of the progress of your request"
+
+msgid "Mon stage est-il officialisé par un contrat ?"
+msgstr "Is my internship formalised in a contract?"
+
+msgid "Bien évidemment. Toutes les offres de stage Movaway sont sous contrat."
+msgstr "Of course.  All Movaway internship offers are under contract."
+
+msgid "Est-il possible de soliciter vos services à plusieurs reprises ?"
+msgstr "Is it posible to request your services on several occasions?"
+
+msgid "Oui."
+msgstr "Yes."
+
+msgid "JOBS"
+msgstr "Jobs"
+
+msgid "Comment Movaway peut m&#8217;aider à trouver un job ?"
+msgstr "How can Movaway help me find a job?"
+
+msgid "Movaway vous trouve rapidement des entretiens avec des restaurants, bars, boutiques à réaliser sur place à Londres."
+msgstr "Movaway will quickly find you interviews with restaurants, bars and shops which will be held in London.Movaway will quickly find you interviews with restaurants, bars and shops which will be held in London."
+
+msgid "Comment profiter de l&#8217;offre de job de Movaway ?"
+msgstr "How do I get a job via Movaway?"
+
+msgid "C&#8217;est très simple, il suffit de contacter Movaway par email à contact@movaway.com en envoyant votre CV. Vous aurez alors un rendez-vous  avec un membre de l&#8217;équipe qui proposera ensuite des entretiens avec nos entreprises partenaires sur place."
+msgstr "It's very simple, just send us an email at contact@movaway.com with your CV.  You will then have an appointment with a member of the team who will offer you some interviews with companies based in London."
+
+msgid "Quel type de postes propose Movaway ?"
+msgstr "What kind of jobs does Movaway offer?"
+
+msgid "Il s&#8217;agit de jobs étudiants, c&#8217;est-à-dire principalement en tant que serveur, barman, réceptionniste, etc."
+msgstr "Student jobs, for example waiting staff, bartender, receptionist etc."
+
+msgid "Les jobs sont-ils à temps complet ou à temps partiel ?"
+msgstr "Are the jobs full time or part time?"
+
+msgid "Les jobs proposés sont adaptés à vos besoins : Movaway vous trouvera donc des jobs à temps complet ou à temps partiel selon vos envies."
+msgstr "The jobs offered are tailored to your needs.  Movaway can find you full or part time positions to suit your needs."
+
+msgid "A quel moment dois-je régler les frais ?"
+msgstr "When should I pay the fees?"
+
+msgid "Pour les jobs, les frais sont à régler avant de passer vos entretiens."
+msgstr "For jobs, the fee are to be paid before completing any interviews in London"
+
+msgid "Comment me préparer pour les entretiens ?"
+msgstr "How do I prepare for my interviews?"
+
+msgid "Movaway peut, si vous le souhaitez, vous donner des conseils et même vous donner des séances de coaching pour les entretiens."
+msgstr "Movaway, can help you with tips and advice for how to perform in an interview."
+
+msgid "LOGEMENTS"
+msgstr "Accomodation"
+
+msgid "Comment réserver une chambre ?"
+msgstr "How do I book a room?"
+
+msgid "C&#8217;est très simple, il suffit de vous rendre sur la page consacrée aux logements, puis de cliquer sur le logement qui vous intéresse, et enfin, en bas de la page, vous trouverez un bandeau qui vous permet de réserver directement en ligne."
+msgstr "It's very simple, just visit the housing page and click on the accomodation that interests you, and finally at the bottom of the page click on the reservation button."
+
+msgid "Pourquoi réserver une chambre ?"
+msgstr "Why do I need to reserve a room?"
+
+msgid "Il est préférable de réserver une chambre pour être sûr d'avoir un endroit où vivre dès votre arrivée. Les logements londoniens trouvent preneur très rapidement, il vaut donc mieux prendre les devants."
+msgstr "It is best to make a reservation to be sure that you have a place to stay when you arrive in London.  The London housing market moves quickly so itӳ worth taking the lead."
+
+msgid "Est-il possible de visiter la chambre avant/après l&#8217;avoir réservé ?"
+msgstr "Is it possible to see the room before/after you have booked?"
+
+msgid "Si vous êtes déjà sur place, il est possible de visiter la chambre à tout moment en prenant rendez-vous auparavant."
+msgstr "If you are already in London it is possible to visit the room at any time by booking an appointment in advance."
+
+msgid "Quels sont les frais de réservation d&#8217;une chambre ?"
+msgstr "What is the room reservation fee?"
+
+msgid "Les frais de réservation d’une chambre équivalent à une semaine de loyer."
+msgstr "The reservation fee is equivilant to one weekӳ rent."
+
+msgid "Quels types de logements propose Movaway?"
+msgstr "What kind of housing does Movaway offer?"
+
+msgid "Movaway propose des chambres situées aux quatre coins de Londres"
+msgstr "Movaway offers rooms in flatshares all over London."
+
+msgid "A quel genre de colocataires puis-je m'attendre ?"
+msgstr "What kind of roommates can I expect?"
+
+msgid "Les locataires de ces logements sont tous des étudiants ou jeunes actifs de différentes nationalités."
+msgstr "The tenants are all students or young professionals of different nationalities"
+
+msgid "Qu&#8217est-ce que comprend le loyer ?"
+msgstr "What does the rent include?"
+
+msgid "Le loyer comprend l&#8217électricité, le gaz, l&#8217eau, la taxe d&#8217habitation et internet."
+msgstr "The rent includes electricity, gas, water, councit tax and internet bills."
+
+msgid "Les logements sont-ils meublés et équipés ?"
+msgstr "Is the housing fully furnished?"
+
+msgid "Oui, les logements sont totalement meublés et équipés."
+msgstr "Yes, all accomodation is fully furnished and equipped."
+
+msgid "Découvrez NOS"
+msgstr "Discover our "
+
+msgid "différents packs"
+msgstr "different packages"
+
+msgid "Movaway vous propose 7 différents packs."
+msgstr "Movaway offers 7 different packages to suit everyone’s needs !"
+
+msgid "PACK STAGE"
+msgstr "Internship Package"
+
+msgid "Moins de 3 mois:"
+msgstr "Less than 3 months : "
+
+msgid "Plus de 3 mois:"
+msgstr "More than 3 months :"
+
+msgid "Movaway vous trouve un stage à Londres qui correspond à vos exigences."
+msgstr "Movaway will find you an internship in London that meets your needs"
+
+msgid "PACK LOGEMENT*"
+msgstr "Housing Package*"
+
+msgid "Movaway vous propose des logements aux quatre coins de Londres."
+msgstr "Movaway offers accomodation all over London"
+
+msgid "UNE SEMAINE DE LOYER *"
+msgstr "One week’s rent*"
+
+msgid "PACK JOB"
+msgstr "Job Package"
+
+msgid "Movaway vous aide à trouver un job étudiant à Londres et vous garanti des entretiens. Nous offrons 40 heures de cours d’anglais pour tout candidat qui souscrit au pack job."
+msgstr "Movaway helps you find a student job in London and guarantees you interviews.  We offer 40 hours of English Courses for any candidate who subscribes to the Job package"
+
+msgid "PACK TAXI"
+msgstr "Taxi package "
+
+msgid "Notre chauffeur vient vous chercher a la gare ou aux différents aéroports puis vous emmène Jusqu’à votre logement."
+msgstr "Our driver picks you up at the station or airport and takes you to your accomodation."
+
+msgid "PACK COURS D’ANGLAIS"
+msgstr "English Course package"
+
+msgid "Frais de dossier"
+msgstr "English Course package"
+
+msgid "Movaway vous propose des cours d’anglais dans les meilleures écoles londoniennes à des prix compétitifs. "
+msgstr "Movaway offers English classes at the best London schools at competitive prices. "
+
+msgid "Sur une semaine : "
+msgstr "One week:"
+
+msgid "Sur deux semaines :"
+msgstr "Two weeks :"
+
+msgid "Nous offrons 40 heures de cours d’anglais pour tout candidat qui souscrit au pack job."
+msgstr "WE OFFER 40 HOURS OF ENGLISH COURSES FOR ANY CANDIDATE WHO SUBSCRIBED TO THE JOB PACK."
+
+msgid "PACK WELCOME TO LONDON"
+msgstr "⦁	Welcome to London Package "
+
+msgid "- une carte sim"
+msgstr "- Sim card"
+
+msgid "- un plan de Londres"
+msgstr "- Map of London"
+
+msgid "- une carte de transport (Oyster Card)"
+msgstr "- Oyster card"
+
+msgid "- un adaptateur"
+msgstr "-Adapter"
+
+msgid "- une aide pour ouvrir un compte bancaire"
+msgstr "Help to open a bank account "
+
+msgid "et pour obtenir un numéro de sécurité sociale (NIN)"
+msgstr "account and obtain a social security number (NIN)"
+
+msgid "- un certificat pour échanger vos euros aux meilleurs taux"
+msgstr "a certificate to exchange your euros at the best rates"
+
+msgid "KIT EMMÉNAGEMENT"
+msgstr "Moving Kit"
+
+msgid "Movaway vous FOURNIT :"
+msgstr "Movaway provides "
+
+msgid "Couette"
+msgstr "Quilt"
+
+msgid "housse de couette DRAP "
+msgstr "Quilt cover"
+
+msgid "2 coussins"
+msgstr "2 pillows"
+
+msgid "2 housses de coussins"
+msgstr "2 pillow covers"
+
+msgid "NOUS-CONTACTER"
+msgstr "CONTACT US"
+
+msgid "N&#8216;hésitez pas à nous contacter pour toute informations relatives à la recherche de Job / Stage ou Logement."
+msgstr "Do not hesitate to contact us for any information about the search for a job/internship or housing."
+
+msgid "Nom *"
+msgstr "First name"
+
+msgid "Les champs marqués d une* sont obligatoires"
+msgstr "Fields marked with a * are required"
+
+msgid "PRENOM *"
+msgstr "Surname"
+
+msgid "NOUS CONTACTER"
+msgstr "Contact us"
+
+msgid "A PROPOS DE"
+msgstr "ABOUT"
+
+msgid "QUI SOMMES-NOUS ?"
+msgstr "Who are we ?"
+
+msgid "Créée en 2012"
+msgstr "Founded in 2012"
+
+msgid "De nos jours, une expérience professionnelle à l’étranger, et qui plus est dans l’un des poumons de l’économie européenne, est très valorisée et même parfois indispensable pour entrer sur le marché du travail. C’est pour cette raison que Movaway s’efforce d’apporter son aide aux étudiants français pour leur permettre d’acquérir une expérience extraordinaire afin de faire un pas en avant vers la réussite."
+msgstr "Today, work experience abroad is highly valued and sometimes a necessity to enter the job market.  Movaway strives to provide assistance to French students to enable them to have an extraordinary experience and to take a step towards success.  "
+
+msgid "Néanmoins, le côté professionnel de cette expérience ne suffit pas, et Movaway est là pour s’assurer que ses clients passent un agréable séjour à Londres en leur proposant des logements de qualité et même de quoi bien commencer sa vie londonienne grâce à son Pack "
+msgstr "Alongside ensuring that you find an internship or job, Movaway is here to ensure that their customers have a comfortable stay in London by offering high quality accomodation, and also offer "
+
+msgid "Ainsi, Movaway aspire à rendre les choses plus faciles, agréables et moins stressantes pour les étudiants français qui décident de se lancer à la conquête de Londres !"
+msgstr "Movaway aspires to make things easier, more enjoyable and less stressful for French students who decide to embark on an adventure in London !"
+
+msgid "l’agence de placement Movaway, est basée à Londres. Son but est d’aider les jeunes français à s’expatrier facilement à Londres en leur proposant des stages, jobs et logements.  Son but est d’aider les jeunes français à s’expatrier à Londres facilement en leur proposant des stages, des logements et des jobs étudiants."
+msgstr "Movaway is a placement agency that specialises in finding interships in London, based in the centre of the English capital.  It’s aim is to help young French people to move to London easily by offering internships, student jobs and housing."
+
+msgid "REJOIGNEZ L’EQUIPE"
+msgstr "Join the "
+
+msgid "MOVAWAY RECRUTE !"
+msgstr "Movaway is recruiting !"
+
+msgid "Dynamique, enthousiaste et plein(e) d’envies?"
+msgstr "Are you dynamic, enthusiastic and ambitious ? "
+
+msgid "Venez rejoindre l’équipe de Movaway ! Nous travaillons toujours dans la bonne humeur et affectionnons tout particulièrement l’esprit d’équipe. Notre objectif est simple : permettre aux jeunes étudiants français de réaliser l’expérience professionnelle qu’il leur faut dans la capitale anglaise !"
+msgstr "Then join our team at Movaway !  We are a happy and enthusiastic people with a great team spirit.  Our goal is simple : to enable young French students to find the experience they need in the English capital !"
+
+msgid "Envoyez maintenant votre CV à l’adresse à"
+msgstr "Send us your cv and cover letter now : recrutement@movaway.com"
+
+msgid "COURS"
+msgstr "ENGLISH"
+
+msgid "D’ANGLAIS"
+msgstr "COURSES"
+
+msgid "MOVAWAY VOUS PROPOSE  DES COURS D’ANGLAIS"
+msgstr "MOVAWAY OFFERS ENGLISH COURSES"
+
+msgid "Il est important d’améliorer votre anglais, pour que vous vous sentiez plus à l’aise lors d’un entretien et pour communiquer avec les personnes que vous allez rencontrer à Londres."
+msgstr "It is important to improve your English so that you feel more comfortable in an interview and are able to communicate with the people you meet in London."
+
+msgid "Nous travaillons avec des écoles qualifiées qui offrent des cours d’anglais à des prix compétitifs.Les professeurs sont là pour vous aider à faire des progrès rapides et vous donner l’attention dont vous avez besoin pour améliorer vos compétences linguistiques."
+msgstr "We work with qualified Schools that offer English courses at affordable prices.  The courses will help you to quickly progress and improve your language skills."
+
+msgid "Chacune de nos écoles partenaires proposent des cours, allant du niveau débutant à professionnel et peut vous préparer aux examens officiels tels que IELTS, Cambridge, TOEIC, TOEFL… Ces écoles de langue sont accréditées par le British Council. Nous offrons 40 heures de cours d’anglais pour tout candidat qui souscrit au pack job."
+msgstr "Wach of our partner schools offer courses ranging from beginner to professional and can prepare you for official exams such as IELTS, Cambridge, TOEIC, TOEFL…. These language schools are accredited by the British Council."
+
+msgid "A propos du stage"
+msgstr "About the internship"
+
+msgid "intitulé du stage"
+msgstr "Internship Title"
+
+msgid "fonction"
+msgstr "Function"
+
+msgid "diplôme"
+msgstr "Qualifications"
+
+msgid "compétences"
+msgstr "Skills"
+
+msgid "SALAIRE"
+msgstr "Salary"
+
+msgid "Date de départ"
+msgstr "Start Date"
+
+msgid "DUREE DU STAGE"
+msgstr "Duration"
+
+msgid "VOTRE POSTE"
+msgstr "Your Job"
+
+msgid "A PROPOS DE L’ENTREPRISE"
+msgstr "About The Company"
+
+msgid "VOS RESPONSABILITÉS"
+msgstr "Your Responsibilities"
+
+msgid "COMMENT CA MARCHE"
+msgstr "How It Works"
+
+msgid "1. POSTULER"
+msgstr "1. Apply"
+
+msgid "2. ENTRETIEN"
+msgstr "2. Interview"
+
+msgid "3. BIENVENUE"
+msgstr "3. Welcome"
+
+msgid "postuler"
+msgstr "PRINT"
+
+msgid "COMMENT AVEZ-VOUS CONNU MOVAWAY :"
+msgstr "HOW DID YOU HEAR ABOUT MOVAWAY ?"
+
+msgid "JE POSTULE"
+msgstr "APPLY"
+
+msgid "POSTULER POUR CE STAGE"
+msgstr "APPLY FOR THIS INTERNSHIP"
+
+msgid "PRESSE"
+msgstr """Newspaper"
+
+msgid "AFFICHE"
+msgstr "Posters"
+
+msgid "AMI"
+msgstr "Friends"
+
+msgid "AUTRE"
+msgstr "Other"
+
+msgid "NOM"
+msgstr "NAME"
+
+msgid "PRENOM"
+msgstr "SURNAME"
+
+msgid "La Réservation"
+msgstr "Reservation"
+
+msgid "Le client s’engage à fournir à son mandataire  des informations exactes et valides mentionnées dans le Formulaire de Mandat de Recherche telles que L’identité et le nombre d’arrivants L’identité du garant L’identité des personnes partageant la chambre La date d’arrivée La date de départ La durée de votre séjour Le type de logement réservé Le budget (loyer du logement par personne et par semaine)"
+msgstr "The Customer undertakes to provide Movaway with accurate and valid information listed in the Order Form such as The identity and number of arrivalsThe identity of the guarantor The identity of persons sharing, The arrival date, Departure date, The duration of your stay, The type of accommodation booked The budget (housing rent per person per week)"
+
+msgid "Afin de garantir la réservation du bien choisi, le client règlera au prestataire des arrhes comprenant nos frais d’agence, plus 5 semaines de cautions qui sera verse directement au propriétaire. Ces arrhes ne seront pas remboursables en cas d’annulation de votre séjour. Les 4 premières semaines de loyer seront à payer au propriétaire à votre arrivée. Le règlement des arrhes se fera soit par  virement, soit par Paypal. Après avoir eu connaissance du logement, vous disposerez d’un délai maximum de 72h pour régler ces arrhes afin de réserver définitivement le logement auprès du propriétaire. Si vous dépassez ce délai et que le logement n’est plus disponible, nous ne pourrons pas vous garantir de nouvelles disponibilités conformes à votre demande, mais nous essayerons de vous faire une nouvelle proposition dès que des logements seront disponibles."
+msgstr ""
+"To guarantee the reservation of the property selected, the client will pay the down payment of our service including agency fees, plus 5 weeks of security deposit that will be paid directly to the owner."
+"This deposit will not be refundable in case of cancellation of your stay."
+"The first 4 weeks rent will be paid to the owner on arrival. The settlement of the deposit will be by transfer or by PayPal."
+"After accepting the agreement of housing, you will have a maximum of 72 hours to pay the deposit to reserve the house finally from the owner."
+"If you miss this deadline and that housing is not available, we cannot guarantee new"
+"availability according to your request, but we will try to make a new proposal as soon as"
+"housing becomes available."
+
+msgid "Nos engagements"
+msgstr "Our commitments "
+
+msgid "Tous les logements que nous vous proposons ont préalablement été sélectionnés par nos soins. Movaway s’engage à vous faire, au minimum, trois proposition de logement conforme à votre demande. Le nombre de propositions dépendra de nos disponibilités. Nos frais d’agences sont d’une semaine de loyer."
+msgstr "All accommodation that we offer has been previously selected by us . Movaway is committed to finding you at least three proposed housing that complies with your request . Number of proposals will depend on availability. Our agency fee is one week 's rent."
+
+msgid "Le critère de la zone géographique ne sera respecté que si le budget alloué à un logement dans la zone choisie par le client est conforme au prix affiché sur notre site internet pour cette même zone géographique (ex: Un logement dans la zone 1-2 est 20% à 30% plus cher qu’un même logement dans la zone 2-3). Si le budget alloué est inférieur, nous attribuerons  automatiquement au client une zone géographique qui correspond à son budget. En cas de surclassement au niveau de la zone, aucun remboursement ne sera effectué (ex: Si vous effectuez une demande de logement dans la zone 2-3 et que l’on  vous trouve un logement en zone 1-2, conforme à votre budget, aucun remboursement ne sera effectué). Le critère de budget ne sera respecté que si la durée de votre séjour est de minimum 3 mois. En dessous de cette durée, votre budget devra s’adapter à nos disponibilités même si nous essayerons au maximum de le respecter. Egalement, le critère de budget par personne (à plus ou moins 20 pounds près) ne pourra pas s’appliquer pour les départs prévus entre le 15 Septembre et le 30 octobre, en raison de la rentrée académique et du manque de disponibilités pendant cette période. Nous vous garantissons de respecter votre budget par personne (à plus ou moins50 pounds près) uniquement pendant cette période. Séjours courts termes (Moins de 13 semaines) et prix des logements :Chambre simple = A partir de 200 pounds / semaineChambre double/Twin = A partir de 230 pounds / semaine Studio simple = A partir de 320 pounds / semaineStudio double = A partir de 380 pounds / semaine"
+msgstr ""
+"The geographical criteria will be respected only if the budget allocated to housing in the area chosen by the customer Is consistent with the price displayed on the website for the same geographic area (eg a home in the area is 1-2 20% to 30% more expensive than the same home in the 2-3 zone). If the allocated budget is lower, we will assign"
+"automatically to the customer a geographical area corresponding to its budget. If there is an upgrade at the zone, no refund will be made (ie: If you apply for housing in the 2-3 zone and we you find housing in area 1-2, in line with your budget, no refund will be made)."
+"The criteria of budget will be respected only if the duration of your stay is at least 3 months. Below this time, your budget will have to adapt to our availability even if we try to respect the maximum."
+"Also, the criteria of budget per person (roughly 20 pounds almost) cannot apply for departures provided between September 15 and October 30, because of the academic year and the lack of availability for this period. Guaranteed to meet your budget per person (more or less 50 pounds nearly) only during this period."
+"Stays short term (less than 13 weeks) and housing prices:"
+"Single = From 200 pounds / week <br />"
+"Double / Twin = From 230 pounds / week <br />"
+"Simple Studio = From 320 pounds / week <br />"
+"Double Studio = From 380 pounds / week <br />"
+
+msgid "En cas de non-disponibilité du type de logement que vous souhaitiez (Colocation, Studio), Movaway vous proposera un autre type de logement parmi ceux disponibles. En cas d’acceptation de cette nouvelle proposition, aucun remboursement ne sera effectué. En cas de refus de trois nouvelles propositions, Movaway s’engage à vous rembourser vos frais d’agence en faisant une demande écrite, envoyée par lettre recommandée avec accusé de réception. Si un client souhaite visiter les logements proposés et faire sa sélection lui-même auprès de nos agences partenaires, Movaway ne pourra être tenu responsable du résultat de la recherche, et les frais d’agence ne seront pas remboursable. En cas d’une ou plusieurs informations manquantes sur la recherche de logement, Movaway se réservera le droit d’interpréter librement la ou les informations manquantes en sa qualité de spécialiste. Dans le cas d’une indisponibilité du logement après avoir effectué la réservation définitive, Movaway s’engage à vous fournir un logement de standing similaire dans la même zone géographique, et si possible dans le même quartier. Movaway s’engage à vous suivre pendant la durée de votre recherche de logement jusqu’à votre prise en charge par le propriétaire.Movaway s’engage à vous envoyer dans les 8-10 jours avant votre départ un courriel comportant l’adresse de votre logement, une description détaillée de celui-ci ainsi que toutes les informations nécessaires à votre départ. Movaway s’engage à transmettre au propriétaire l’ensemble de vos coordonnées ainsi que votre date et heure d’arrivée. Movaway s’engage à vous transmettre les coordonnées du propriétaire afin que vous puissiez, dès votre arrivée à Londres,  prendre contact avec lui. Il sera alors en mesure de prévoir votre prise en charge et de procéder à votre installation. Movaway se décharge de toute responsabilité si vous décidez de changer de logement sur place. Le propriétaire sera dans ce cas la, le seul garant de la location. Movaway se réserve le droit d’annuler toute demande de logement sur un manque de disponibilités par le remboursement des frais d’agence et caution, dès la connaissance de l’impossibilité de loger le client. Movaway s’engage à vous aider dans la recherche d’un nouveau logement si celui pour lequel vous aviez contracté venait à expiration. Cette aide, sans obligation de résultat, n’occasionnera aucun frais supplémentaire si elle apparaît dans les 3 mois suivant la souscription. "
+msgstr ""
+"In case of non-availability of the type of accommodation you want (Room, Studio), Movaway can offer you another type of accommodation from those available. In case of acceptance of this new proposal, no refund made. In case of refusal of three new proposals Movaway will refund you your agency fees by a written request sent by registered letter with acknowledgment of receipt.  If a customer wishes to visit the proposed housing and make its selection itself with our partner agencies, Movaway cannot be held responsible for the results of research, and the agency fees are not refundable.  If one or more are missing information about finding housing, Movaway reserves the right to interpret freely the missing information in his capacity as specialist.  In the case of unavailability of housing after making the final booking, Movaway agrees to provide you a similar standard of accommodation in the same geographical area, and if possible in the same neighborhood.  Movaway undertakes to be with you during your housing search.  Movaway promises to send you within 8-10 days prior to departure an email with the address of your accommodation, a detailed description of this and all information necessary for your departure.  Movaway agrees to transmit to the owner all of your details and your date and time of arrival.  Movaway agrees to send you the contact information of the owner so that you can contact them, when you arrive in London. It will then be possible to help move you in to the property with your co-operation.  Movaway disclaims any responsibility if you decide to change your accommodation on site. The owner will be in this case, the only guarantor of the lease."
+"Movaway reserves the right to cancel any rental application on a lack of availability in the repayment of agency fees and bond, if we are incapable of accommodating the customer."
+"Movaway is committed to assisting you in finding a new home if the one for which you had contracted to expired. This aid, without obligation of result, will not result in any additional costs if it appears within 3 months following subscription."
+
+msgid "La société Movaway, intermédiaire à l’opération de location, n’intervient jamais ni dans la rédaction, ni dans la régularisation du bail, avec le propriétaire ou l’agence anglaise partenaire. Le bail régit les rapports entre le locataire et le propriétaire et demeure donc inopposable au prestataire. La prestation sera réputée définitivement achevée à la signature du contrat de bail. En cas de non respect du contrat de location et/ou en cas de détériorations du logement loué, le locataire sera responsable de réparer les dommages causés au propriétaire et/ou à l’agence immobilière anglaise.La responsabilité de Movaway ne pourra jamais être recherchée en cas de non-respect des termes du bail par l’une ou l’autre des parties,  de dommages, retards, nuisances, quelles qu’elles soient, pouvant survenir dans le cadre de la formation, de l’exécution ou à la suite de l’expiration du contrat de bail conclu entre le locataire et le propriétaire. Le propriétaire est seul responsable de l’état du bien loué et le locataire seul responsable de l’état du bien lors de sa restitution. Le locataire fera son affaire de la restitution de la caution versée au propriétaire, à l’issue du bail et ce, sans recours contre le prestataire. Movaway ne pourra être tenu responsable en cas de retard sur les envois postaux, quelqu’il soit. Attribution de compétence : Les parties décident de soumettre le présent contrat au droit anglais. En cas de litige, le tribunal HM COURT de Londres sera seul compétent.Location d’une chambre en colocationA votre arrivée au Royaume-Uni, vous serez pris en charge par le propriétaire et il vous sera demandé de signer un contrat de location (Tenancy Agreement). Le contrat de location prévoit systématiquement le versement du premier mois de loyer de 4 semaines avant l’emmenagement.Le premier loyer devra être versée, en espèces (Livre Sterling) ou bien par virement 72h avant l’arrivée sur Londres sur le compte de Movaway.Il sera prévu que le propriétaire prend à sa charge la totalité des factures usuelles telles que l’électricité, l’eau, le gaz, taxe d’habitation, internet. Le locataire doit  respecter les lieux d’habitation privés et communs, ainsi que les biens meubles et immeubles qui s’y trouvent. Leur non-respect engage personnellement le locataire. A son départ, le locataire doit restituer les locaux dans un état identique à l’entrée dans les lieux.Vous devrez obligatoirement disposer des justificatifs suivants, sans quoi vous ne pourrez pas intégrer les lieux : - Une copie de votre pièce d’identité.- Un justificatif de domicile.Votre loyer se paye toutes les 4 semaines."
+msgstr ""
+"Movaway the company, through the lease transaction, never intervenes neither in writing nor in the regularisation the lease with the owner or agency English partner. The lease governs the relationship between tenant and landlord and therefore remains unenforceable against the provider. The benefit shall be deemed to be finally completed on the signing of the lease contract. In case of breach of the rental agreement and / or in case of damage to the rented property, the tenant will be responsible for repairing damage to the owner and / or English estate agency. Responsibility for Movaway can never be sought in case of non-compliance with the terms of the lease by either parts, damage, delays, pollution whatsoever, that may arise in the course of training, the execution or following the expiry of the lease agreement between the tenant and the owner. The owner is responsible for the condition of the leased property and the tenant solely responsible for the condition of the property at its restitution. The tenant must take out the return of the deposit paid to the owner at the end of the lease, without recourse against the provider."
+"Movaway cannot be held responsible for delays on mailings, whatever it is."
+"Assignment of jurisdiction: The parties agree to submit this contract with English law. In case of dispute, the court HM COURT London will have sole jurisdiction."
+"Renting a room in rent on arrival in the UK, you will be picked up by the owner and will be asked to sign a contract rental (Tenancy Agreement).  The lease systematically provides for the payment of the first month of rent 4 weeks before the move in."
+"The first rent will be paid in cash (Sterling) or by bank transfer 72 hours prior to arrival in the Movaway London account.  It is scheduled that the owner shall pay all the usual bills such as electricity, water, gas, tax residential, internet.  The tenant must respect private living quarters and common, as well as movable and immovable property therein. Failure to do so is the tennants responsibility.  On his departure, the tenant must return the premises in a state identical to the entry into the premises."
+"You will have to compulsorily have the following documents, without which you cannot move into the property:"
+"- A copy of your ID."
+"- Proof of address."
+"Your rent is paid every 4 weeks."
+
+msgid "DANS LE SECTEUR"
+msgstr "IN THE AREA"
+
+msgid "Evenements"
+msgstr "Events"
+
+msgid "Parcs"
+msgstr "Parks"
+
+msgid "RESERVER CE LOGEMENT"
+msgstr "BOOK THIS ACCOMODATION"
+
+msgid "DES QUESTIONS ? LOGEMENTS@MOVAWAY.COM OU RENDEZ-VOUS SUR LA "
+msgstr "Any questions ? Contact @Movaway.com or see our FAQ"
+
+msgid "nom complet"
+msgstr "Complete Name"
+
+msgid "periode"
+msgstr "Length"
+
+msgid "numero carte"
+msgstr "Card Number"
+
+msgid "EMPLACEMENT"
+msgstr "LOCATION"
+
+msgid "expiration"
+msgstr "Expiration Date"
+
+msgid "CODE de securite*"
+msgstr "Security Code"
+
+msgid "QU'EST-CE QUE C'EST?"
+msgstr "What is this ?"
+
+msgid "Kit emménagement: £99"
+msgstr "Moving Kit"
+
+msgid "les termes et conditions"
+msgstr "the terms & conditions"
+
+msgid "VOTRE Réservation a bien été prise en complet"
+msgstr "Successfull reservation!"
+
+msgid "un agent de l’équipe Movaway va prendre contact avec vous au plus vite."
+msgstr "Movaway will contact you as soon as possible"
+
+msgid "Movaway vous aide à vous installer à londres en vous proposant tous les outils nécessaires pour  seulement"
+msgstr "Movaway will provide you with all the tools you need to settle in LondonSim Card, Map of London, Travel Crad (Oyster Card), Adapter, National Insurance Number, a voucher to change your Euros at the best rate, assistance to open a bank account"
+
+msgid "une carte sim"
+msgstr "Sim Card"
+
+msgid "un plan de Londres"
+msgstr "Map of London"
+
+msgid "une carte de transport (Oyster Card)"
+msgstr "Travel Crad (Oyster Card)"
+
+msgid "un adaptateur"
+msgstr "Adapter"
+
+msgid "un numéro de sécurité social(NIN)"
+msgstr "National Insurance Number"
+
+msgid "un certificat pour échanger vos euros aux meilleurs taux"
+msgstr "a voucher to change your Euros at the best rate"
+
+msgid "une aide pour ouvrir un compte en banque"
+msgstr "assistance to open a bank account"
+
+msgid "Notre chauffeur vient vous chercher a la gare ou aux différents aéroports puis vous emmène jusqu’a votre logement."
+msgstr "Our driver will collect you from the station or airport and take you to your accomodation"
+
+msgid "KIT EMMENAGEMENT"
+msgstr "Moving Kit"
+
+msgid "Grâce au kit emménagement, Movaway vous fournit une couette, une housse de couette, un drap, deux coussins et deux housses de coussin"
+msgstr "Movaway provides you with a duvet, duvet cover, bed sheet, two pillows and two cushion covers"
+
+msgid "J'accepte"
+msgstr "I accept"
+
+msgid "ILS NOUS FONT"
+msgstr "THEY TRUST"
+
+msgid "CONFIANCE"
+msgstr "US"
